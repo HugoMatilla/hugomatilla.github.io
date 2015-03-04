@@ -106,6 +106,7 @@ return score;
 - (void)addCard:(Card *)card; // Same without the parameter.
 ```
 Arrays are inmutable, we need NSMutableArray.
+
 *Decks.m*
 ```objective-c
 @property (strong, nonatomic) NSMutableArray *cards; // of Card
