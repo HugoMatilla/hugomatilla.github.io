@@ -21,7 +21,7 @@ iOS Tutorial Based on the Standford 2013 course at standford.edu
 ```  
 
 ###All objects are in the HEAP
-Objectove C will allocate and free them
+Objective C will allocate and free them
 
 ####strong
  Keep the object that this property points to in memory until I set this property to nil (zero)
@@ -110,7 +110,7 @@ Arrays are inmutable, we need NSMutableArray.
 *Decks.m*
 ```objective-c
 @property (strong, nonatomic) NSMutableArray *cards; // of Card
-
+``` 
 ###Initialize
 Declaring a @property makes space in the instance for the￼￼pointer itself but does not
 allocate space in the heap for the￼object the pointer points to.
@@ -152,11 +152,32 @@ We always nest a call to init around a call to alloc e.g.Deck *myDeck = [[Playin
 
 ￼Classes can have more complicated initializers than just plain “init" (e.g. initWithCapacity: or some such). We’ll talk more about that next week as well.
 
-**Only call an init method immediately after calling alloc to make space in the heap for that new object. And￼never call alloc without immediately alling some init method on the newly allocated object.**
+**Only call an init method immediately after calling alloc to make space in the heap for that new object. And ￼never call alloc without immediately calling some init method on the newly allocated object.**
 
 ####instancetype
 ￼
 It basically tells the compiler that this method returns an object which will be the same type as the object that this￼message was sent to.
 We will pretty much only use it for init methods. Always use this return type for your init methods.
 ￼￼￼￼￼￼￼
+###ReadOnly
+Redeclaring the properties to not be ￼readonly in our implementation (only).
 
+We usually don’t use this readwrite directive unless￼￼publicly we made the @property readonly (since readwrite is the default).
+
+###NSMutableArray
+Indeed there is no way to express in Objective-C that this array should only have Card objects in it. One might argue t
+hat that is a shortcoming.
+All we can do is be sure to comment what we intend.
+*CardMatchingGame.m*
+```objective-c
+@property (nonatomic, strong) NSMutableArray *cards; // of Card
+```
+
+###Designated Initializer
+That means that it is not legally initialized unless this gets called at some point.
+
+We must always call our superclass’s designated initializer from our desugnated initializer (if this were just a convenience initializer, 
+we'd have to call our own designated initializer from it).
+
+Classes can have multiple initializers, but obviously one designated initializer.
+￼
