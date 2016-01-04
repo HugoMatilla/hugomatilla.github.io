@@ -3,7 +3,6 @@ layout: post
 title:  "New Years Objectives!"
 date:   2016-1-4 22:28:00
 categories: motivation
-id:001
 ---
 
 # SMART 2016 objectives
