@@ -181,3 +181,8 @@ we'd have to call our own designated initializer from it).
 
 Classes can have multiple initializers, but obviously one designated initializer.
 ￼
+###Outlet Collection 
+Outlet Collection arrays are always strong, so Xcode has removed that option from the dialog.
+While the View will point strongly to all of the buttons inside the array, it will not point to the array itself at all (only our Controller will) so our outlet needs to be strongly held in the heap by our Controller.
+￼￼
+
