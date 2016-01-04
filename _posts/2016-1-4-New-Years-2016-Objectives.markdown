@@ -8,9 +8,13 @@ id:001
 
 # SMART 2016 objectives
 __S__pecific (Which is the final state of the objective? When will it be marked as done?)
-__M__easurable (How can be the progress of the objective be measure? Tasks done? Time invested?)
+
+__M__easurable (How can be the progress of the objective be measure? Tasks done? Time invested?)  
+
 __A__chievable (It shoulb be a realistic objective, not too optimistic, and not to challenging?)
+
 __R__elevant (It is relevat for the Goals you want to achieve. If is not, it might not be a good objective)
+
 __T__imed (Objectives need plans, deadlines and milestones to give you focus: 1 year)
 
 ## 1. Become better Android Developer
