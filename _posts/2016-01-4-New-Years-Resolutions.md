@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New Years Objectives!"
+title:  "New Years Resolutions"
 date:   2016-1-4 22:28:00
 categories: motivation
 ---
@@ -30,6 +30,7 @@ __T__imed (Objectives need plans, deadlines and milestones to give you focus: 1 
 * Apply Tests and TDD
 	* Apply tests in scondoo
 	* Apply test in the Kotlin app
+* Read One technological article per week
 
 ## 2. Build a Businnes in IT
 * Finish The startups course _(3 Months)_	Deadline 1. April
