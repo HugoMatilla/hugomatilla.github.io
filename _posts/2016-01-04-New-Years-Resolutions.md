@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New Years Resolutions"
+title:  "New Year's Resolutions"
 date:   2016-1-4 22:28:00
 categories: motivation
 ---
@@ -19,7 +19,7 @@ __T__imed (Objectives need plans, deadlines and milestones to give you focus: 1 
 ## 1. Become better Android Developer
 * Release 1 project in Github _(1 year)_
 * Learn Kotlin
-	* Finish Koans _(2 Weeks)_ Deadline 22. Jan
+	* Finish Koans _(2 Weeks)_ Deadline 22. Jan (done 13.Jan)
 	* Read Book "Kotlin for Android developers" _(1 Month)_ Deadline 1. Marz
 	* Make Clean Architecture Kotlin App _(2 Months)_ Deadline 1. May
 	* Add business kotlin classes to the scondoo app _(...)_
@@ -34,16 +34,17 @@ __T__imed (Objectives need plans, deadlines and milestones to give you focus: 1 
 
 ## 2. Build a Businnes in IT
 * Finish The startups course _(3 Months)_	Deadline 1. April
-* Launch Shapes _(1 Month)_ Deadline 1. Feb
+* Launch Shapes _(2 Month)_ Deadline 1. March
 * Run Shapes for 6 Months  _(6 Months)_ Deadline 1. July
 * Get 1 download in Shapes _(6 Months)_ Deadline 1. July
 * If after 6 Months Shapes does not work, start something new _(6 Months)_ Deadline 31. Dec
 
 ##3. Learn iOS
-Do the course in Udemy _(6 Months)_ Deadline 1. July
-
-##4. Learn Node
 Do the course in Udemy _(6 Months)_ Deadline 31. Dec
+
+##4. Learn Node and JavaScript
+Do the Js course in Udemy _(3 Months)_ Deadline 1. March
+Do the Node course in Udemy _(3 Months)_ Deadline 1. July
 
 ##5. Make my own Website
 * Theme and working _(6 Months)_ Deadline 1. July
@@ -57,3 +58,7 @@ Do the course in Udemy _(6 Months)_ Deadline 31. Dec
 
 ##7. Create Tumblr with the old sci-fi books covers
 * Add 4 posts per month
+
+##8. Make music
+* 1 track Deadline _(1 year)_ 31. Dec
+* 1 Session Deadline _(1 year)_ 31. Dec
