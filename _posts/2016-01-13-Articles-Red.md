@@ -8,6 +8,10 @@ categories: reading
 
 ###Weeek 2016-1-18
 
+**"Si un método sobrescrito no hace nada o lanza una excepción, es muy probable que estés violando el principio de sustitución de Liskov."**  
+Antonio Leiva @ devexperto  
+[Principio de sustitución de Liskov (SOLID 3ª parte)](http://devexperto.com/principio-de-sustitucion-de-liskov/)
+
 **"It’s no secret that Meteor is in a state of flux right now."**  
 Sacha Greif @ Discover Meteor  
 [The State Of Meteor Part 1: What Went Wrong](https://www.discovermeteor.com/blog/the-state-of-meteor-part-1-what-went-wrong/)

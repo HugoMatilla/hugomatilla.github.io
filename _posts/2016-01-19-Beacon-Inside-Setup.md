@@ -4,7 +4,7 @@ title:  "Beacon Inside set up"
 date:   2016-1-19 13:00:00
 categories: android, beacon,  
 ---
-
+IN PROGRESS
 # Beacon Inside set up
 1. Download the beaconinside app.
 2. Check that your beacons inside is working and that your phone can read and write in it.
@@ -38,3 +38,4 @@ categories: android, beacon,
 ```
 
 7. Get the token from  [https://manage.beaconinside.com/#/developers](https://manage.beaconinside.com/#/developers)
+

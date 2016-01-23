@@ -4,6 +4,7 @@ title:  "Scondoo Clean Architecture Notes"
 date:   2016-1-12 17:50:00
 categories: architecture
 ---
+IN PROGRESS
 
 Just some notes to rememeber myself in the future. I already build the project and now 1 month later i will try to rememember what I did.
 
