@@ -10,7 +10,7 @@ I made some resolutions for 2016, things that I was postponing over and over. Fi
 I am a computer science whole life student. First thing you heard in the Software Engeenireng School is:   
 _"You have chossen a path that will keep you studing all your life."_
 
-I thouhgt after University I could quit studying, but not. However I realize that one thing that I love the most is to study
+I thouhgt after University I could quit studying, but not. However I realize that one thing that I love is to study
 so I feel lucky of choosing Computer Science as my field. :D
 
 I studied in Madrid at [FI-UPM](https://www.fi.upm.es/), I did the Eramus Program in Berlin at [TU-Berlin](http://www.tu-berlin.de/) with a Diploma Project and an internship in the [T-Labs](https://www.net.t-labs.tu-berlin.de/talks/past_talks_2009.shtml)
@@ -26,33 +26,38 @@ I moved back to Spain from Berlin after travelling 2,5 months through Japan, Tah
 I worked in apps like:
 
 * Smart Mobile Factory
-	*[rebuy](https://play.google.com/store/apps/details?id=de.rebuy.android)
-	*[WHATWASHERE_Berlin](https://play.google.com/store/apps/details?id=com.smf.wwh&feature=search_result#?t=W251bGwsMSwyLDEsImNvbS5zbWYud3doIl0.)
-	*[LernCoachies in the Box](https://play.google.com/store/apps/details?id=com.smf.LernCoachies&hl=en)
-	*[Gravis](http://www.gravis.de/)
-	*[DHL](https://play.google.com/store/apps/details?id=de.dhl.paket&hl=en)
+	* [rebuy](https://play.google.com/store/apps/details?id=de.rebuy.android)
+	* [WHATWASHERE_Berlin](https://play.google.com/store/apps/details?id=com.smf.wwh&feature=search_result#?t=W251bGwsMSwyLDEsImNvbS5zbWYud3doIl0.)
+	* [LernCoachies in the Box](https://play.google.com/store/apps/details?id=com.smf.LernCoachies&hl=en)
+	* [Gravis](http://www.gravis.de/)
+	* [DHL](https://play.google.com/store/apps/details?id=de.dhl.paket&hl=en)
 * Scondoo
-	*[scondoo](https://play.google.com/store/apps/details?id=de.scondoo.android&referrer=adjust_reftag%3DcKg2d55QLVyGV%26utm_source%3DWebsite%2BHome%2BContainer%2BButton%2BAndroid)
+	* [scondoo](https://play.google.com/store/apps/details?id=de.scondoo.android&referrer=adjust_reftag%3DcKg2d55QLVyGV%26utm_source%3DWebsite%2BHome%2BContainer%2BButton%2BAndroid)
+* HotUKDeals
+	* [HotUKDeals](https://play.google.com/store/apps/details?id=com.tippingcanoe.hukd&hl=en)
 * Side Projects
-	*[SaveApp](https://play.google.com/store/apps/details?id=com.loopback.androidapps.saveapp)My really first one 
-	*[Clone Cubes Wallpaper](https://play.google.com/store/apps/details?id=com.LoopBack.LiveWallPaper.CloneCubes3DLWP)
-	*[Voice Alertes](https://play.google.com/store/apps/details?id=de.lfa.voicealerts) with my friend [Alex Corbi](http://www.alexcorbi.com/)
+	* [SaveApp](https://play.google.com/store/apps/details?id=com.loopback.androidapps.saveapp) My first one 
+	* [Clone Cubes Wallpaper](https://play.google.com/store/apps/details?id=com.LoopBack.LiveWallPaper.CloneCubes3DLWP)
+	* [Voice Alertes](https://play.google.com/store/apps/details?id=de.lfa.voicealerts) with my friend [Alex Corbi](http://www.alexcorbi.com/)
 
 I tryed some stuff like:
 
-* Meteor [MeeMo](http://meemo.meteor.com/) A MeeMory app
-* Polymer in phonegap (sorry, no code) but I can tell you that it won't work directly in all Android versions [stackoverflow](http://stackoverflow.com/a/26921138/749393) and [stackoverflow](http://stackoverflow.com/a/26921176/749393) 
-* React and React Native. I really like it, but who knows how long is goind to last.
-* Jekyll and Polymer: This blog. Under construction :)
-* Some Wordpress websites:
-	* [Demian Records](http://demianrecords.com/)
-	* [Robert Kav](http://robertkav.com/)
-	* [Nicola Napoli](http://nicolanapoli.com/)
+* Meteor: [MeeMo](http://meemo.meteor.com/) A MeeMory app
+* Polymer in Phonegap: (sorry, no code) but I can tell you that it won't work directly in all Android versions. I answered [here](http://stackoverflow.com/a/26921138/749393) and [here](http://stackoverflow.com/a/26921176/749393) 
+* React and React Native: I really like it, but who knows how long is going to last.
+* Jekyll and Polymer: The blog you are reading now. Under construction :)
+* Arduino: I followed the [book](http://www.exploringarduino.com/) and tutorials of [Jeremy Bloom](http://www.jeremyblum.com/) 
+
+I build some Wordpress websites:
+
+* [Demian Records](http://demianrecords.com/)
+* [Robert Kav](http://robertkav.com/)
+* [Nicola Napoli](http://nicolanapoli.com/)
 
 I am now focused in:
 
 * Kotlin [My Cheat Sheet](https://github.com/HugoMatilla/KotlinCheatSheet)
-* Clean Architecture from Uncle Bob [Video](https://vimeo.com/43612849) and of course the Android way from [Fernando Cejas](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
+* Clean Architecture from Uncle Bob [Video](https://vimeo.com/43612849) and followed the Android way from [Fernando Cejas](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
 * Testing
 * JavaScript [Udemy](https://www.udemy.com/understand-javascript/)
 
@@ -63,9 +68,24 @@ I am reading:
 * [The Startup Owner's Manual](http://www.amazon.com/The-Startup-Owners-Manual-Step-By-Step/dp/0984999302)
 * [Foundation](https://www.wikiwand.com/en/Foundation_series)
 
+I help:
 
+* CoderDojo: I am a mentor in the [CoderDojo Majadahonda](https://twitter.com/coderdojomj) teaching young [programmers](https://twitter.com/coderdojomj/status/668027302350032897) Scratch and BitBloq.
+* Hispanic Startups Berlin: I co-organized the [Hispanic Startups Berlin Event 2015](https://www.youtube.com/watch?v=iTkrAfz3u4w) and our [meetups](http://www.meetup.com/Hispanic-Startup-Berlin/)
 
+I speak:
 
+* Spanish
+* English
+* German
+* French (not really but 427EXP in Duolingo)
+
+I practice:
+
+* HapKiDo
+* Skateboarding
+* Snowboarding
+* Surf
 
 
 
