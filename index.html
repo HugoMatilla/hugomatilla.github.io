@@ -26,7 +26,9 @@ layout: default
 
         </div>
           <div class="card-actions">
-              <paper-button><a href="{{ post.url | prepend: site.baseurl }}">read</a></paper-button>
+            <a href="{{ post.url | prepend: site.baseurl }}">
+                <paper-button class="custom pink">read</paper-button>
+              </a>
           </div>
         </paper-card>
       </li>
@@ -37,3 +39,18 @@ layout: default
   <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
 
 </div>
+<style is="custom-style">
+  paper-button.custom {
+    --paper-button-ink-color: var(--paper-pink-a200);
+    --paper-button-flat-keyboard-focus: {
+      background-color: var(--paper-pink-a200);
+      color: white !important;
+    };
+  }
+  paper-button.custom:hover {
+    background-color: var(--paper-grey-200);
+  }
+  paper-button.pink {
+    color: var(--paper-pink-a200);
+  }
+</style>
