@@ -5,7 +5,7 @@ date:   2016-1-4 22:28:00
 categories: motivation
 ---
 
-#### _My plans and dreams for this year, and some planing ahead._
+#### _My plans and dreams for this year, and some planning ahead._
 
 ## SMART objectives 2016
 __S__pecific (Which is the final state of the objective? When will it be marked as done?)

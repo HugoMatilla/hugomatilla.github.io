@@ -7,6 +7,17 @@ categories: reading
 
 #### _A log of the the articles that I read._
 
+
+###Week 2016-1-25
+**"Using React means being part of something bigger."**
+Sacha Greif @ Discover Meteor  
+[The State Of Meteor Part 2: What Happens Next](https://www.discovermeteor.com/blog/the-state-of-meteor-part-2-what-happens-next/)
+
+**"Ninguna clase debería depender de métodos que no usa"**
+Antonio Leiva @ devexperto  
+[Principio de Segregación de Interfaces (SOLID 4ª parte)](http://devexperto.com/principio-de-segregacion-de-interfaces/)
+
+
 ###Weeek 2016-1-18
 **"But as a professional, putting my (or my team’s) productivity at risk it gives me pause."**  
 Reto Meier @ Medium  
