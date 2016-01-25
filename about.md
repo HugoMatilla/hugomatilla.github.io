@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-_Hi, I am Hugo Matilla Gomez and this is my blog._
-
-I studied and still study computers stuff. 
+_Hi, I am Hugo Matilla Gomez, I studied and still study computers stuff. _
 
 First thing you heard in the Software Engeenireng School is:   
 **_"You have chossen a path that will keep you studing all your life."_**
@@ -22,9 +20,17 @@ I **sudied** at home a Postgraduate in Mobile Applications Development at [Funda
 
 I **worked in Berlin** as Android Developer at [Smart Mobile Factory](http://smartmobilefactory.com/en/) and I am currently working at [Scondoo](https://scondoo.de/)
 
-I **moved back** to Spain from Berlin after travelling 2,5 months through Japan, Tahiland and [Indonesia](https://unsplash.com/photos/EFuCATqfblI). Now I work 2 days/week from home for scondoo, the rest of the time I study and try new stuff.
+I **moved back** to Spain from Berlin after travelling 2,5 months through Japan, Tahiland and [Indonesia](https://unsplash.com/photos/EFuCATqfblI).
+
+**Now** I work 2 days/week from home for scondoo, the rest of the time I study and try new stuff.
 
 ###I worked in apps like:
+
+* Scondoo
+	* [scondoo](https://play.google.com/store/apps/details?id=de.scondoo.android&referrer=adjust_reftag%3DcKg2d55QLVyGV%26utm_source%3DWebsite%2BHome%2BContainer%2BButton%2BAndroid)
+
+* HotUKDeals
+	* [HotUKDeals](https://play.google.com/store/apps/details?id=com.tippingcanoe.hukd&hl=en)
 
 * Smart Mobile Factory
 	* [rebuy](https://play.google.com/store/apps/details?id=de.rebuy.android)
@@ -32,10 +38,7 @@ I **moved back** to Spain from Berlin after travelling 2,5 months through Japan,
 	* [LernCoachies in the Box](https://play.google.com/store/apps/details?id=com.smf.LernCoachies&hl=en)
 	* [Gravis](http://www.gravis.de/)
 	* [DHL](https://play.google.com/store/apps/details?id=de.dhl.paket&hl=en)
-* Scondoo
-	* [scondoo](https://play.google.com/store/apps/details?id=de.scondoo.android&referrer=adjust_reftag%3DcKg2d55QLVyGV%26utm_source%3DWebsite%2BHome%2BContainer%2BButton%2BAndroid)
-* HotUKDeals
-	* [HotUKDeals](https://play.google.com/store/apps/details?id=com.tippingcanoe.hukd&hl=en)
+
 * Side Projects
 	* [SaveApp](https://play.google.com/store/apps/details?id=com.loopback.androidapps.saveapp) My first one 
 	* [Clone Cubes Wallpaper](https://play.google.com/store/apps/details?id=com.LoopBack.LiveWallPaper.CloneCubes3DLWP)
@@ -45,7 +48,7 @@ I **moved back** to Spain from Berlin after travelling 2,5 months through Japan,
 
 * Meteor: [MeeMo](http://meemo.meteor.com/) A MeeMory app
 * Polymer in Phonegap: (sorry, no code) but I can tell you that it won't work directly in all Android versions. I answered [here](http://stackoverflow.com/a/26921138/749393) and [here](http://stackoverflow.com/a/26921176/749393) 
-* React and React Native: I really like it, but who knows how long is going to last.
+* React and React Native: I really like it, but who knows how long is it going to last.
 * Jekyll and Polymer: The blog you are reading now. Under construction :)
 * Arduino: I followed the [book](http://www.exploringarduino.com/) and tutorials of [Jeremy Bloom](http://www.jeremyblum.com/) 
 
@@ -57,7 +60,7 @@ I **moved back** to Spain from Berlin after travelling 2,5 months through Japan,
 
 ###I am now focused in:
 
-* Kotlin [My Cheat Sheet](https://github.com/HugoMatilla/KotlinCheatSheet)
+* Kotlin: [My Cheat Sheet so far](https://github.com/HugoMatilla/KotlinCheatSheet)
 * Clean Architecture from Uncle Bob [Video](https://vimeo.com/43612849) and followed the Android way from [Fernando Cejas](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
 * Testing
 * JavaScript [Udemy](https://www.udemy.com/understand-javascript/)
@@ -72,7 +75,7 @@ I **moved back** to Spain from Berlin after travelling 2,5 months through Japan,
 ###I help in:
 
 * CoderDojo: I am a mentor in the [CoderDojo Majadahonda](https://twitter.com/coderdojomj) teaching young [programmers](https://twitter.com/coderdojomj/status/668027302350032897) Scratch and BitBloq.
-* Hispanic Startups Berlin: I co-organized the [Hispanic Startups Berlin Event 2015](https://www.youtube.com/watch?v=iTkrAfz3u4w) and our [meetups](http://www.meetup.com/Hispanic-Startup-Berlin/)
+* Hispanic Startups Berlin: I co-organized the [Hispanic Startups Berlin Event 2015](https://www.youtube.com/watch?v=iTkrAfz3u4w) and our [meetups](http://www.meetup.com/Hispanic-Startup-Berlin/).
 
 ###I speak:
 
@@ -90,4 +93,4 @@ I **moved back** to Spain from Berlin after travelling 2,5 months through Japan,
 
 
 
- More in [CV]().
+ More in my [CV]({{site.baseurl}}/assets/HAMatilla_Resume_Senior_G.pdf).
