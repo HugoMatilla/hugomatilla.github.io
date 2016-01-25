@@ -202,3 +202,18 @@ pre {
         }
     }
 }
+
+//CUSTOM
+paper-card {
+    display: inherit !important;
+   }
+.paper-card-0 .header.paper-card .title-text.paper-card {
+    color: #009688;
+}   
+paper-header-panel.paper-header-panel-0{
+    background: #009688 ;
+}
+
+.site-title{
+    color: black !important; 
+}

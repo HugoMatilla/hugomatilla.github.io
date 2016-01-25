@@ -4,20 +4,36 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h3 class="post-title">Hugo Matilla Gomez</h3>
+
+  <h2>Hi, I am Hugo Matilla Gomez and this is my blog.</h2>
+  <h2>In the <a class="page-link" href="/about/">about</a> section you can find more about me.</h2>
+
+  
+  <h1 class="post-title">Posts</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+      <li>
+      <paper-card aria-label="" elevation="1" class="x-scope paper-card-0" heading="{{ post.title }}"> 
+        <div class="card-content">
+          
+
+          <p>{{ post.excerpt }}</p>
+
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        </div>
+          <div class="card-actions">
+              <paper-button><a href="{{ post.url | prepend: site.baseurl }}">read</a></paper-button>
+          </div>
+        </paper-card>
       </li>
+      
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
 
 </div>

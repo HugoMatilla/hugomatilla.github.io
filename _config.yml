@@ -1,7 +1,7 @@
 # Site settings
-title: MatGom
+title: Hugo MATilla GÓMez
 email: hugomatilla@gmail.com
-description: > # Code and more
+description: Code and more.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://matgom.com" # the base hostname & protocol for your site
 twitter_username: hugomatgom	

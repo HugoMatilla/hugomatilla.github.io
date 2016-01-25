@@ -5,7 +5,9 @@ date:   2016-1-4 22:28:00
 categories: motivation
 ---
 
-# SMART 2016 objectives
+#### _My plans and dreams for this year, and some planing ahead._
+
+## SMART objectives 2016
 __S__pecific (Which is the final state of the objective? When will it be marked as done?)
 
 __M__easurable (How can be the progress of the objective be measure? Tasks done? Time invested?)  
@@ -15,7 +17,6 @@ __A__chievable (It shoulb be a realistic objective, not too optimistic, and not 
 __R__elevant (It is relevat for the Goals you want to achieve. If is not, it might not be a good objective)
 
 __T__imed (Objectives need plans, deadlines and milestones to give you focus: 1 year)
-
 ## 1. Become better Android Developer
 * Release 1 project in Github _(1 year)_
 * Learn Kotlin
@@ -40,11 +41,11 @@ __T__imed (Objectives need plans, deadlines and milestones to give you focus: 1 
 * If after 6 Months Shapes does not work, start something new _(6 Months)_ Deadline 31. Dec
 
 ##3. Learn iOS
-Do the Udemy course _(6 Months)_ Deadline 31. Dec
+* Do the Udemy course _(6 Months)_ Deadline 31. Dec
 
 ##4. Learn Node and JavaScript
-Do the Js course. Udemy _(3 Months)_ Deadline 1. March
-Do the Node course. Udemy _(3 Months)_ Deadline 1. July
+* Do the Js course. Udemy _(3 Months)_ Deadline 1. March
+* Do the Node course. Udemy _(3 Months)_ Deadline 1. July
 
 ##5. Make my own Website
 * Polymer Theme  _(6 Months)_ Deadline 1. July

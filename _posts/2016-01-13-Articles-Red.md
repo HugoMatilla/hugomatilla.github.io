@@ -1,12 +1,16 @@
 ---
 layout: post
-title:  "Articles Red"
+title:  "Articles I Read"
 date:   2016-1-13 10:00:00
-categories: reading 
+categories: reading
 ---
 
+#### _A log of the the articles that I read._
 
 ###Weeek 2016-1-18
+**"But as a professional, putting my (or my team’s) productivity at risk it gives me pause."**  
+Reto Meier @ Medium  
+[How Often Should You Update Android Studio?](https://medium.com/google-developers/how-often-should-you-update-android-studio-db25785c488e#.fbmpw4ag1)
 
 **"Si un método sobrescrito no hace nada o lanza una excepción, es muy probable que estés violando el principio de sustitución de Liskov."**  
 Antonio Leiva @ devexperto  
