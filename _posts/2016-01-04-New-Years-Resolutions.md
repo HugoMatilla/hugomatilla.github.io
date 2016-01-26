@@ -17,6 +17,7 @@ __A__chievable (It shoulb be a realistic objective, not too optimistic, and not 
 __R__elevant (It is relevat for the Goals you want to achieve. If is not, it might not be a good objective)
 
 __T__imed (Objectives need plans, deadlines and milestones to give you focus: 1 year)
+
 ## 1. Become better Android Developer
 * Release 1 project in Github _(1 year)_
 * Learn Kotlin
