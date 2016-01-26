@@ -45,7 +45,7 @@ I **moved back** to Spain from Berlin after travelling 2,5 months through Japan,
 	* [Clone Cubes Wallpaper](https://play.google.com/store/apps/details?id=com.LoopBack.LiveWallPaper.CloneCubes3DLWP)
 	* [Voice Alertes](https://play.google.com/store/apps/details?id=de.lfa.voicealerts) with my friend [Alex Corbi](http://www.alexcorbi.com/)
 
-###I tryed some stuff like:
+###I tried some stuff like:
 
 * Meteor: [MeeMo](http://meemo.meteor.com/) A MeeMory app
 * Polymer in Phonegap: (sorry, no code) but I can tell you that it won't work directly in all Android versions. I answered [here](http://stackoverflow.com/a/26921138/749393) and [here](http://stackoverflow.com/a/26921176/749393) 
@@ -53,7 +53,7 @@ I **moved back** to Spain from Berlin after travelling 2,5 months through Japan,
 * Jekyll and Polymer: The blog you are reading now. Under construction :)
 * Arduino: I followed the [book](http://www.exploringarduino.com/) and tutorials of [Jeremy Bloom](http://www.jeremyblum.com/) 
 
-###I build some Wordpress websites:
+###I built some Wordpress websites:
 
 * [Demian Records](http://demianrecords.com/)
 * [Robert Kav](http://robertkav.com/)
