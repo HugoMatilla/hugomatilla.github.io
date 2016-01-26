@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-_Hi, I am Hugo Matilla Gomez, I studied and still study computers stuff. _
+_Hi, I am Hugo Matilla Gómez, I studied and still study computers stuff._
 
 First thing you heard in the Software Engeenireng School is:   
 **_"You have chossen a path that will keep you studing all your life."_**
