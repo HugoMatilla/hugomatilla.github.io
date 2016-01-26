@@ -20,7 +20,7 @@ I **sudied** at home a Postgraduate in Mobile Applications Development at [Funda
 
 I **worked in Berlin** as Android Developer at [Smart Mobile Factory](http://smartmobilefactory.com/en/) and I am currently working at [Scondoo](https://scondoo.de/)
 
-I **moved back** to Spain from Berlin after travelling 2,5 months through Japan, Tahiland and [Indonesia](https://unsplash.com/photos/EFuCATqfblI).
+I **moved back** to Spain from Berlin after travelling 2,5 months through Japan, Thailand and [Indonesia](https://unsplash.com/photos/EFuCATqfblI).
 
 **Now** I work 2 days/week from home for scondoo, the rest of the time I study and try new stuff.
 
