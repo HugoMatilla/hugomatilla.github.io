@@ -9,6 +9,19 @@ categories: reading
 
 
 ###Week 2016-1-25
+
+**"In the right environment event a tourtle can be fast"**  
+Paul Bakaus @ ampproject.org   
+[What Is AMP?](https://www.ampproject.org/docs/get_started/about-amp.html)
+
+**"Use Fragments at your risk... They use the tasty Burrito pattern"**
+Israel Ferrer @ Fragmented Podcast  
+[026 – LetMeExplainYou AndroidDev like a pro](http://fragmentedpodcast.com/episodes/26/)
+
+**"minSdkVersion (lowest possible) <= targetSdkVersion == compileSdkVersion (latest SDK)"**  
+Ian Lake @ Medium  
+[Picking your compileSdkVersion, minSdkVersion, and targetSdkVersion](https://medium.com/google-developers/picking-your-compilesdkversion-minsdkversion-targetsdkversion-a098a0341ebd#.glkcdbd94)
+
 **"Using React means being part of something bigger."**
 Sacha Greif @ Discover Meteor  
 [The State Of Meteor Part 2: What Happens Next](https://www.discovermeteor.com/blog/the-state-of-meteor-part-2-what-happens-next/)

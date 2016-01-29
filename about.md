@@ -33,12 +33,13 @@ I **moved back** to Spain from Berlin after travelling 2,5 months through Japan,
 	* [HotUKDeals](https://play.google.com/store/apps/details?id=com.tippingcanoe.hukd&hl=en)
 
 * Smart Mobile Factory
-	* [rebuy](https://play.google.com/store/apps/details?id=de.rebuy.android)
+	* [rebuy](https://play.google.com/store/apps/details?id=de.rebuy.android) (Android and Windows apps)
 	* [WHATWASHERE_Berlin](https://play.google.com/store/apps/details?id=com.smf.wwh&feature=search_result#?t=W251bGwsMSwyLDEsImNvbS5zbWYud3doIl0.)
 	* [PeblTree](http://pebltree.com/#)
 	* [LernCoachies in the Box](https://play.google.com/store/apps/details?id=com.smf.LernCoachies&hl=en)
 	* [Gravis](http://www.gravis.de/)
 	* [DHL](https://play.google.com/store/apps/details?id=de.dhl.paket&hl=en)
+	* [Lazada](https://play.google.com/store/apps/details?id=com.lazada.android&hl=en)
 
 * Side Projects
 	* [SaveApp](https://play.google.com/store/apps/details?id=com.loopback.androidapps.saveapp) My first one 
