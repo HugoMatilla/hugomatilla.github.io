@@ -32,7 +32,7 @@ __T__imed (Objectives need plans, deadlines and milestones to give you focus: 1 
 * Apply Tests and TDD
 	* Apply tests in scondoo
 	* Apply test in the Kotlin app
-* Read One technological article per week
+* Read 4 technological article per week
 
 ## 2. Side Projects
 * Finish The startups course _(3 Months)_	Deadline 1. April
@@ -41,27 +41,27 @@ __T__imed (Objectives need plans, deadlines and milestones to give you focus: 1 
 * Get 100 download in Shapes _(6 Months)_ Deadline 1. July
 * If after 6 Months Shapes does not work, start something new _(6 Months)_ Deadline 31. Dec
 
-##3. Learn iOS
+## 3. Learn iOS
 * Do the Udemy course _(6 Months)_ Deadline 31. Dec
 
-##4. Learn Node and JavaScript
+## 4. Learn Node and JavaScript
 * Do the Js course. Udemy _(3 Months)_ Deadline 1. March
 * Do the Node course. Udemy _(3 Months)_ Deadline 1. July
 
-##5. Make my own Website
+## 5. Make my own Website
 * Polymer Theme  _(6 Months)_ Deadline 1. July
 * Write 3 Technical posts _(6 Months)_ Deadline 31. Dec
 
-##6. Read more
+## 6. Read more
 * Finish _Foundation Edge_
 * Finish _Foundation and Earth_
 * Read any other one 
 * Read one about Personal improvement
 
-##7. Create Tumblr with the old sci-fi books covers
+## 7. Create Tumblr with the old sci-fi books covers
 * Add 4 posts per month
 
-##8. Enjoy my free time
+## 8. Enjoy my free time
 * Relax
 * Make some music
 * Go snowboarding/surfing

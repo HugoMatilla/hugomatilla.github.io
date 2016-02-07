@@ -7,6 +7,16 @@ categories: reading
 
 #### _A log of the the articles that I read._
 
+###Week 2016-2-8
+
+**"No one likes your style"**  
+Drew Hamlett @ Medium
+[How to fix Javascript… maybe](https://medium.com/@wob/how-to-fix-javascript-maybe-8857819bfa16#.1sx6ya9nm)  
+
+**"They never wanted to host your app, they just wanted you to use Facebook login."**
+Sascha Konietzke @ Medium  
+[They never wanted to host your app. The real reasons why Parse shut down.](https://medium.com/@s2o/they-never-wanted-to-host-your-app-the-real-reasons-why-parse-shut-down-6ec3d7d5c53c#.rdz6bp436)  
+
 ###Week 2016-2-1
 
 **"J2ObjC is not a Java emulator, but instead translates Java to Objective-C classes that extend the iOS Foundation Framework."**   
