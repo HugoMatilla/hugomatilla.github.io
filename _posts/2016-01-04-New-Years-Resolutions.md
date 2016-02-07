@@ -59,7 +59,7 @@ __T__imed (Objectives need plans, deadlines and milestones to give you focus: 1 
 * Read one about Personal improvement
 
 ## 7. Create Tumblr with the old sci-fi books covers
-* Add 4 posts per month [oldschoolscificovers.tumblr.com](oldschoolscificovers.tumblr.com)
+* Add 4 posts per month [oldschoolscificovers.tumblr.com](http://oldschoolscificovers.tumblr.com)
 
 ## 8. Enjoy my free time
 * Relax
