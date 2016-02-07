@@ -7,6 +7,23 @@ categories: reading
 
 #### _A log of the the articles that I read._
 
+###Week 2016-2-1
+
+**"J2ObjC is not a Java emulator, but instead translates Java to Objective-C classes that extend the iOS Foundation Framework."**   
+Tom Ball @ google-opensource.blogspot  
+[J2ObjC 1.0 Release](http://google-opensource.blogspot.com.es/2016/01/j2objc-10-release_21.html?utm_campaign=devshow_series_j2objc_012816&utm_source=medium&utm_medium=blog)  s
+
+**"You should consider process death a natural part of your app’s lifecycle"**  
+Ian Lake @ Medium
+[Who lives and who dies? Process priorities on Android](https://medium.com/google-developers/who-lives-and-who-dies-process-priorities-on-android-cb151f39044f#.v4fh43b9n)
+
+**"DRAFF: Deliver Really Awesome Features Fast"**
+Israel Ferrer @ Øredev Conference
+[ANDROID DEVELOPMENT LIKE A PRO](https://vimeo.com/144678505)
+
+**"Cualquier instanciación de clases complejas o módulos es una violación de este principio"**  
+Antonio Leiva @ devexperto  
+[Principio de Inversión de Dependencias (SOLID 5ª parte)](http://devexperto.com/principio-de-inversion-de-dependencias/)
 
 ###Week 2016-1-25
 
