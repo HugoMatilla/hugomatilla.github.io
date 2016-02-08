@@ -9,6 +9,14 @@ categories: reading
 
 ###Week 2016-2-8
 
+**"The drawback of working remotely is that it can feel like you’re surrounded by plenty of people."**
+David Heinemeier Hansson @ Signal v. Noise
+[Cabin fever](https://signalvnoise.com/posts/3658)
+
+**"It is a column data base that execute queries much much faster than row databases like SQLite"**
+Christian Melchior @ Fragmented Podcast
+[027 – Realm Realm Realm your boat (with Christian)](http://fragmentedpodcast.com/episodes/27/)
+
 **"No one likes your style"**  
 Drew Hamlett @ Medium
 [How to fix Javascript… maybe](https://medium.com/@wob/how-to-fix-javascript-maybe-8857819bfa16#.1sx6ya9nm)  
@@ -20,7 +28,7 @@ Sascha Konietzke @ Medium
 ###Week 2016-2-1
 
 **"J2ObjC is not a Java emulator, but instead translates Java to Objective-C classes that extend the iOS Foundation Framework."**   
-Tom Ball @ google-opensource.blogspot  
+Tom Ball @ google opensource blog  
 [J2ObjC 1.0 Release](http://google-opensource.blogspot.com.es/2016/01/j2objc-10-release_21.html?utm_campaign=devshow_series_j2objc_012816&utm_source=medium&utm_medium=blog)  s
 
 **"You should consider process death a natural part of your app’s lifecycle"**  
