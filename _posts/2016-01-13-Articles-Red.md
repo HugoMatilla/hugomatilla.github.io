@@ -8,9 +8,12 @@ categories: reading
 #### _A log of the the articles that I read._
 
 # Week 2016-2-8
+**"I figured it would have been easier to publish to JCenter than it actually was!"**  
+Danielle Emma Vass @ Medium  
+[How to Publish Your Android Studio Library to JCenter](https://medium.com/@tigr/how-to-publish-your-android-studio-library-to-jcenter-5384172c4739#.3ns67nux4) 
 
-**Un gran problema en el desarrollo software es la comunicación entre los desarrolladores y los expertos del dominio.**
-Carlos Morera de la Chica @ devexperto
+**Un gran problema en el desarrollo software es la comunicación entre los desarrolladores y los expertos del dominio.**  
+Carlos Morera de la Chica @ devexperto  
 [Introducción a Domain Driven Design (DDD): Parte 1](http://devexperto.com/domain-driven-design-1)
 
 
