@@ -74,7 +74,7 @@ Antonio Leiva @ devexperto
 [Principio de Segregación de Interfaces (SOLID 4ª parte)](http://devexperto.com/principio-de-segregacion-de-interfaces/)
 
 
-###Weeek 2016-1-18
+# Weeek 2016-1-18
 **"But as a professional, putting my (or my team’s) productivity at risk it gives me pause."**  
 Reto Meier @ Medium  
 [How Often Should You Update Android Studio?](https://medium.com/google-developers/how-often-should-you-update-android-studio-db25785c488e#.fbmpw4ag1)
@@ -91,7 +91,7 @@ Sacha Greif @ Discover Meteor
 Drew Hamlett @ Medium   
 [The Sad State of Web Development. Random thoughts on web development](https://medium.com/@wob/the-sad-state-of-web-development-1603a861d29f#.sp705t9fu)
 
-###Weeek 2016-1-11
+# Weeek 2016-1-11
 **"Una entidad de software debería estar abierta a extensión pero cerrada a modificación."**   
 Antonio Leiva @ devexperto  
 [Principio Open/Closed (SOLID 2ª parte)](http://devexperto.com/principio-open-closed/)
@@ -113,7 +113,7 @@ Gary Bernhardt @ Destroy all Software
 [The birth & death of javascript]( https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
 
 
-### Weeek 2016-1-4
+# Weeek 2016-1-4
 **"You didn't list the important decisions. You listed the irrelevant ones."**   
 Robert C. Martin (Uncle Bob) @ The Clean Code Blog  
 [A Little Architecture](http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html)
