@@ -7,7 +7,12 @@ categories: reading
 
 #### _A log of the the articles that I read._
 
-###Week 2016-2-8
+# Week 2016-2-8
+
+**Un gran problema en el desarrollo software es la comunicación entre los desarrolladores y los expertos del dominio.**
+Carlos Morera de la Chica @ devexperto
+[Introducción a Domain Driven Design (DDD): Parte 1](http://devexperto.com/domain-driven-design-1)
+
 
 **"The drawback of working remotely is that it can feel like you’re surrounded by plenty of people."**
 David Heinemeier Hansson @ Signal v. Noise
@@ -25,7 +30,7 @@ Drew Hamlett @ Medium
 Sascha Konietzke @ Medium  
 [They never wanted to host your app. The real reasons why Parse shut down.](https://medium.com/@s2o/they-never-wanted-to-host-your-app-the-real-reasons-why-parse-shut-down-6ec3d7d5c53c#.rdz6bp436)  
 
-###Week 2016-2-1
+# Week 2016-2-1
 
 **"J2ObjC is not a Java emulator, but instead translates Java to Objective-C classes that extend the iOS Foundation Framework."**   
 Tom Ball @ google opensource blog  
@@ -43,7 +48,7 @@ Israel Ferrer @ Øredev Conference
 Antonio Leiva @ devexperto  
 [Principio de Inversión de Dependencias (SOLID 5ª parte)](http://devexperto.com/principio-de-inversion-de-dependencias/)
 
-###Week 2016-1-25
+# Week 2016-1-25
 
 **"In the right environment event a tourtle can be fast"**  
 Paul Bakaus @ ampproject.org   
