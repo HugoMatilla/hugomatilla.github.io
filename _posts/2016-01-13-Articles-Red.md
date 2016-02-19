@@ -7,7 +7,30 @@ categories: reading
 
 #### _A log of the the articles that I read._
 
+# Week 2016-2-15
+
+**"We run them because we are afraid. We are afraid because we are uncertain what the system will do."**
+Robert C. Martin (Uncle Bob) @ The Clean Code Blog    
+[Stabilization Phases](http://blog.cleancoder.com/uncle-bob/2016/01/14/Stabilization.html)
+
+**"Good life is made of good relationships"**
+Robert Waldinger @ TED Talks
+[What Makes a Good Life? Lessons from the Longest Study on Happiness | Robert Waldinger | TED Talks](https://www.youtube.com/watch?v=8KkKuTCFvzI)
+
+**"Sad face"**
+Rebecca Franks @ http://riggaroo.co.za/ 
+[Optimizing Layouts in Android Reducing Overdraw](http://riggaroo.co.za/optimizing-layouts-in-android-reducing-overdraw)
+
+**"Your new friend, windowBackground"**  
+Saul Molinero @ saulmm.github.io  
+[Avoiding cold starts on Android](http://saulmm.github.io/avoding-android-cold-starts)
+
+
 # Week 2016-2-8
+**"A craftsman takes pride in his work an strives to do the best job he can."**    
+Micah Martin @ blog.8thlight  
+[Definition of Software Craftsman](https://blog.8thlight.com/micah-martin/2008/09/21/definition-of-software-craftsman.html)
+
 **"I figured it would have been easier to publish to JCenter than it actually was!"**  
 Danielle Emma Vass @ Medium  
 [How to Publish Your Android Studio Library to JCenter](https://medium.com/@tigr/how-to-publish-your-android-studio-library-to-jcenter-5384172c4739#.3ns67nux4) 
@@ -17,20 +40,20 @@ Carlos Morera de la Chica @ devexperto
 [Introducción a Domain Driven Design (DDD): Parte 1](http://devexperto.com/domain-driven-design-1)
 
 
-**"The drawback of working remotely is that it can feel like you’re surrounded by plenty of people."**
-David Heinemeier Hansson @ Signal v. Noise
+**"The drawback of working remotely is that it can feel like you’re surrounded by plenty of people."**  
+David Heinemeier Hansson @ Signal v. Noise  
 [Cabin fever](https://signalvnoise.com/posts/3658)
 
-**"It is a column data base that execute queries much much faster than row databases like SQLite"**
-Christian Melchior @ Fragmented Podcast
+**"It is a column data base that execute queries much much faster than row databases like SQLite"**  
+Christian Melchior @ Fragmented Podcast  
 [027 – Realm Realm Realm your boat (with Christian)](http://fragmentedpodcast.com/episodes/27/)
 
-**"No one likes your style"**  
-Drew Hamlett @ Medium
+**"No one likes your style"**   
+Drew Hamlett @ Medium  
 [How to fix Javascript… maybe](https://medium.com/@wob/how-to-fix-javascript-maybe-8857819bfa16#.1sx6ya9nm)  
 
-**"They never wanted to host your app, they just wanted you to use Facebook login."**
-Sascha Konietzke @ Medium  
+**"They never wanted to host your app, they just wanted you to use Facebook login."**  
+Sascha Konietzke @ Medium    
 [They never wanted to host your app. The real reasons why Parse shut down.](https://medium.com/@s2o/they-never-wanted-to-host-your-app-the-real-reasons-why-parse-shut-down-6ec3d7d5c53c#.rdz6bp436)  
 
 # Week 2016-2-1
