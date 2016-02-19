@@ -2,8 +2,9 @@
 layout: post
 title:  "How to share your own Android library to the world."
 date:   2016-2-19 19:00:00
-categories: android, library, open source, tutorial,
+categories: android, library, open source, tutorial
 ---
+
 #How to share your own Android library to the world.
 There are different ways to organize code you want to share. I like the one that let users download the source code and have a demo app and as a module the code of the library you are sharing. I am going to explain this case.
 
