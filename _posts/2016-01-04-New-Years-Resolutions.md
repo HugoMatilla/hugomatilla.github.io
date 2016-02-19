@@ -3,6 +3,7 @@ layout: post
 title:  "New Year's Resolutions"
 date:   2016-1-4 22:28:00
 categories: motivation
+image : main-resolutions.jpg
 ---
 
 #### _My plans and dreams for this year, and some planning ahead._

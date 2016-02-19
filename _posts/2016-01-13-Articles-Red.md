@@ -3,6 +3,7 @@ layout: post
 title:  "Articles I Read"
 date:   2016-1-13 10:00:00
 categories: reading
+image : main-articles.jpg
 ---
 
 #### _A log of the the articles that I read._

@@ -9,8 +9,10 @@ _Hi, I am Hugo Matilla Gómez, I studied and still study computers stuff._
 First thing you heard in the Software Engeenireng School is:   
 **_"You have chossen a path that will keep you studing all your life."_**
 
-I thouhgt after University I could quit studying, but not. However I realize that one thing that I love is to study
-so I feel lucky of choosing Computer Science as my field. :D
+I was disapointed after hearing that, but years passed I now know I love to study and I feel lucky of choosing Computer Science as my field. :D
+
+I always thought that University was the last studying step, and afterwards everything would be just working. How mistaken i was.  
+However I realized after time that  I love to study so 
 
 I **studied** in Madrid at [FI-UPM](https://www.fi.upm.es/), I did the Eramus Program in Berlin at [TU-Berlin](http://www.tu-berlin.de/) with a Diploma Project and an internship in the [T-Labs](https://www.net.t-labs.tu-berlin.de/talks/past_talks_2009.shtml)
 

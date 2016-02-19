@@ -3,6 +3,7 @@ layout: post
 title:  "How to share your own Android library to the world"
 date:   2016-02-19 19:00:00
 categories: tutorial
+image : main-share.jpg
 ---
 
 ## _A brief explanation of how to create an aar library and share it easily._
