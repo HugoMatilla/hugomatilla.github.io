@@ -6,7 +6,7 @@ categories: motivation
 image : main-resolutions.jpg
 ---
 
-#### _My plans and dreams for this year, and some planning ahead._
+## _My plans and dreams for this year, and some planning ahead._
 
 ## SMART objectives 2016
 __S__pecific (Which is the final state of the objective? When will it be marked as done?)
