@@ -25,20 +25,19 @@ So it is a resource like an anctivity or a service, that the test will wait to b
 This will be the basic structure for our test. If you need more info just check the article above mentioned:[Testing a sorted list with Espresso](http://blog.egorand.me/testing-a-sorted-list-with-espresso/)
 
 {% highlight java %}
+@RunWith(AndroidJUnit4.class)
+@LargeTest
+public class MainActivityTest {
 
-	@RunWith(AndroidJUnit4.class)
-	@LargeTest
-	public class MainActivityTest {
-
-	    @Rule
-	    public ActivityTestRule<MainActivity> activityTestRule = new ActivityTestRule<>(MainActivity.class);
+    @Rule
+    public ActivityTestRule<MainActivity> activityTestRule = new ActivityTestRule<>(MainActivity.class);
 
 
-	    @Test
-	    public void testToBeRunAfterSync() {
-	        //... 
-	    }
-	}
+    @Test
+    public void testToBeRunAfterSync() {
+        //... 
+    }
+}
 {% endhighlight %}
 
 If we use this template, `testToBeRunAfterSync()` will be run as soon as the acticvity is visible. We want to wait until we have data in the activity, so we need to tell the test to wait for that.
@@ -48,71 +47,69 @@ If we use this template, `testToBeRunAfterSync()` will be run as soon as the act
 We will create a class that implements the `IdlingResource` interface. Here we will say when our resource (MainActivity) is idle (ready to be tested). This will be done in `isIdleNow()` create the logic you need to know when it happends. In this case I have a parameter in `MainActivity` that is set to true when the data is synced. I access it bia `activity.isSyncFinished()`
 
 {% highlight java %}
-	
-	public class MainActivityIdlingResource implements IdlingResource {
+public class MainActivityIdlingResource implements IdlingResource {
 
-	    private MainActivity activity;
-	    private ResourceCallback callback;
+    private MainActivity activity;
+    private ResourceCallback callback;
 
-	    public MainActivityIdlingResource(MainActivity activity) {
-	        this.activity = activity;
-	    }
+    public MainActivityIdlingResource(MainActivity activity) {
+        this.activity = activity;
+    }
 
-	    @Override
-	    public String getName() {
-	        return "MainActivityIdleName";
-	    }
+    @Override
+    public String getName() {
+        return "MainActivityIdleName";
+    }
 
-	    @Override
-	    public boolean isIdleNow() {
-	        Boolean idle = isIdle();
-	        if (idle) callback.onTransitionToIdle();
-	        return idle;
-	    }
+    @Override
+    public boolean isIdleNow() {
+        Boolean idle = isIdle();
+        if (idle) callback.onTransitionToIdle();
+        return idle;
+    }
 
-	    public boolean isIdle() {
-	        return activity != null && callback != null && activity.isSyncFinished();
-	    }
+    public boolean isIdle() {
+        return activity != null && callback != null && activity.isSyncFinished();
+    }
 
-	    @Override
-	    public void registerIdleTransitionCallback(ResourceCallback resourceCallback) {
-	        this.callback = resourceCallback;
-	    }
-	} 
+    @Override
+    public void registerIdleTransitionCallback(ResourceCallback resourceCallback) {
+        this.callback = resourceCallback;
+    }
+} 
 {% endhighlight %}
 
 ## Register the IdlingResource to our test
 At this point we need to add the register and unregister methods to our test class.
 
 {% highlight java %}
+@RunWith(AndroidJUnit4.class)
+@LargeTest
+public class MainActivityTest {
 
-	@RunWith(AndroidJUnit4.class)
-	@LargeTest
-	public class MainActivityTest {
+	private MainActivityIdlingResource idlingResource;
 
-		private MainActivityIdlingResource idlingResource;
+    @Rule
+    public ActivityTestRule<MainActivity> activityTestRule = new ActivityTestRule<>(MainActivity.class);
 
-	    @Rule
-	    public ActivityTestRule<MainActivity> activityTestRule = new ActivityTestRule<>(MainActivity.class);
-	
-		@Before
-	    public void registerIntentServiceIdlingResource() {
-	        MainActivity activity = activityTestRule.getActivity();
-	        idlingResource = new MainActivityIdlingResource(activity);
-	        Espresso.registerIdlingResources(idlingResource);
-	    }
+	@Before
+    public void registerIntentServiceIdlingResource() {
+        MainActivity activity = activityTestRule.getActivity();
+        idlingResource = new MainActivityIdlingResource(activity);
+        Espresso.registerIdlingResources(idlingResource);
+    }
 
-	    @After
-	    public void unregisterIntentServiceIdlingResource() {
-	        Espresso.unregisterIdlingResources(idlingResource);
-	    }
+    @After
+    public void unregisterIntentServiceIdlingResource() {
+        Espresso.unregisterIdlingResources(idlingResource);
+    }
 
 
-	    @Test
-	    public void testToBeRunAfterSync() {
-	        //... 
-	    }
-	}
+    @Test
+    public void testToBeRunAfterSync() {
+        //... 
+    }
+}
 {% endhighlight %}
 
 Now the test `testToBeRunAfterSync()` will be run after we call `callback.onTransitionToIdle()` on the `MainActivityIdlingResource`
