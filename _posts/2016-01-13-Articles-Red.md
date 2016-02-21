@@ -7,8 +7,21 @@ image : main-articles.jpg
 ---
 
 ## _A log of the the articles that I read._
+#Week 2016-2-22
+
+**"Idling: Espresso waits until the app is "idle" before performing the next action and checking the next assertion."**  
+Chiu-Ki Chan @ Square Island  
+[Espresso: Custom Idling Resource](http://blog.sqisland.com/2015/04/espresso-custom-idling-resource.html)
 
 # Week 2016-2-15
+
+**"After the first time _registerIdlingResource()_ is called, all subsequent calls for an idling resource with the same name won't have any effect"**  
+Stefano Dacchille @ Jimbo Blog  
+[Wait for it...a deep dive into Espresso's Idling Resources](http://dev.jimdo.com/2014/05/09/wait-for-it-a-deep-dive-into-espresso-s-idling-resources/)
+
+**"Acceptance tests are the ones that make sure your entire feature (or a certain aspect of the feature) is implemented correctly."**
+Egor Andreevici @ egorands Blog
+[Testing a sorted list with Espresso](http://blog.egorand.me/testing-a-sorted-list-with-espresso/)
 
 **"We run them because we are afraid. We are afraid because we are uncertain what the system will do."**
 Robert C. Martin (Uncle Bob) @ The Clean Code Blog    

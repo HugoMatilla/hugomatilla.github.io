@@ -30,16 +30,22 @@ This part is easier that you could expect, though it was not easy to find the co
 
 Add this at the top after the `apply` call in the `build.gradle` of your library module.
 
+{% highlight java %}
+
 	ext {
 	    PUBLISH_GROUP_ID = 'com.hugomatilla' //Change this to your own domain
 	    PUBLISH_ARTIFACT_ID = 'mylibrary' //Change this to the name of your library
 	    PUBLISH_VERSION = '1.0.0' // Version code you want. 1.0.0 is a good start
 	}
 
+{% endhighlight %}
 
 And  this at the end.
-
+{% highlight java %}
+	
 	apply from: 'https://raw.githubusercontent.com/blundell/release-android-library/master/android-release-aar.gradle'
+
+{% endhighlight %}
 
 This is  a definition of the gradle tasks needed to create your `aar`  file.You can go directly to the website and see what is done. [https://raw.githubusercontent.com/blundell/release-android-library/master/android-release-aar.gradle](https://raw.githubusercontent.com/blundell/release-android-library/master/android-release-aar.gradle) 
 
