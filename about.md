@@ -62,7 +62,7 @@ I **moved back** to Spain from Berlin after traveling 2,5 months through Japan, 
 ### I am now focused in:
 
 * Kotlin: [My Cheat Sheet so far](https://github.com/HugoMatilla/KotlinCheatSheet)
-* Clean Architecture from Uncle Bob [Video](https://vimeo.com/43612849) and followed the Android way from [Fernando Cejas](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
+* Clean Architecture from [Uncle Bob](https://vimeo.com/43612849) and followed the Android way from [Fernando Cejas](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
 * Testing
 * JavaScript [Udemy](https://www.udemy.com/understand-javascript/)
 
