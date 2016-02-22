@@ -11,7 +11,7 @@ image : main-share.jpg
 ## 1. Create your library.
 There are different ways to organize code you want to share. I prefer when the project is a demo application, and as a 'module' the code of the library you are sharing. I am going to explain this case.
 
-To do that create a new project and choose wisely the name and package name of the application. We are calling the application _MyLibraryDemoApplication_. We are editing the package name, think on the package name you want for your library first. In this case  the library package name will be `com.hugomatilla.mylibrary` Adding a sufix give us a clean application package name `com.hugomatilla.mylibrary.demo`
+To do that create a new project and choose wisely the name and package name of the application. We are calling the application _MyLibraryDemoApplication_. We are editing the package name, think on the package name you want for your library first. In this case  the library package name will be `com.hugomatilla.mylibrary` Adding a suffix give us a clean application package name `com.hugomatilla.mylibrary.demo`
 
 ![Editing new project package name]({{ site.url }}/assets/PostShareLibrary/share-android-lib-app.jpg)
 
@@ -26,7 +26,7 @@ This part is easier that you could expect, though it was not easy to find the co
 
 [How to Publish Your Android Studio Library to JCenter](https://medium.com/@tigr/how-to-publish-your-android-studio-library-to-jcenter-5384172c4739#.3ns67nux4)
 
-**NOTE:** Go to the `build.gradle` of your library module, the first thing you  see in the first line is `apply plugin: 'com.android.library'`. That means that it is defined as a library instead of an application. Because of that, in everytime you build the project, you will get an `aar` file per _build variant_ in the folder `mylibrary/build/outputs/aar/`. You could use this files as your `aar` library files, but they won't have a version code. Follow next steps to add version numbers using maven.
+**NOTE:** Go to the `build.gradle` of your library module, the first thing you  see in the first line is `apply plugin: 'com.android.library'`. That means that it is defined as a library instead of an application. Because of that, in every time you build the project, you will get an `aar` file per _build variant_ in the folder `mylibrary/build/outputs/aar/`. You could use this files as your `aar` library files, but they won't have a version code. Follow next steps to add version numbers using maven.
 
 Add this at the top after the `apply` call in the `build.gradle` of your library module.
 
@@ -51,7 +51,7 @@ Now _sync_ the project and go to the root folder of your project, (not the libra
 
 	./gradlew clean build generateRelease
 
-Now you have your `aar` file in `yourAppFolder/yourLibrary/build/release.zip`. 
+Now you have your `far` file in `yourAppFolder/yourLibrary/build/release.zip`. 
 
 ## 3.Test the aar library
 
@@ -73,7 +73,7 @@ At this moment if you run _MyLibraryAARTestApplication_ and the `aar` file was g
 ## 4. Upload to JCenter
 
 Use [bintray](https://bintray.com) as mentioned in [How to Publish Your Android Studio Library to JCenter](https://medium.com/@tigr/how-to-publish-your-android-studio-library-to-jcenter-5384172c4739#.3ns67nux4)
-Is a straight forward process easy to follow.
+Is a straightforward process easy to follow.
 
 Just in case the above mentioned article dissapear I summarize the steps to follow. 
 
@@ -86,11 +86,11 @@ Just in case the above mentioned article dissapear I summarize the steps to foll
 7. Wait until approval  
 
 
-Once you got the email telling you that the the project is uploaded to the JCenter, go to the test project ( _MyLibraryAARTestApplication_) and substite the reference of the local `aar` file to the JCenter reference and see how the project works using your library from the server instead of locally.
+Once you got the email telling you that the the project is uploaded to the JCenter, go to the test project ( _MyLibraryAARTestApplication_) and substitute the reference of the local `aar` file to the JCenter reference and see how the project works using your library from the server instead of locally.
 
 	compile 'com.hugomatilla:mylibrary:1.0.0'
 
-Now you can add this reference to your readme file so peolpe who want to use your library can do it easily.
+Now you can add this reference to your readme file so people who want to use your library can do it easily.
 
 
 ## Extra point. Add it to Awesome list
@@ -105,10 +105,10 @@ First read and follow the [contribution guidelines](https://github.com/JStumpp/a
 4. Add your library to the README.md file.
 5. Add a message following the [contribution guidelines](https://github.com/JStumpp/awesome-android/blob/master/contributing.md) and commit your changes.
 6. And now create a pull request. In SourceTree, just right click in the master branch and click "Create a Pull request". It will open a github page showing you the pull request. Select the master branch as destiny and your branch as source. (It will be automatically set.)
-7. Click ok and wait for the approval. :)
+7. Click OK and wait for the approval. :)
 
 ## Conclusion
-At the begining I thought it would be more difficult to set up everything, but as you see there are not so many steps, and they are quite simple. Choose well the project name and package name, run the gradle tasks, test the `aar` file before uploading to JCenter and make it more visible adding it to Awesome lists.  
+At the beginning I thought it would be more difficult to set up everything, but as you see there are not so many steps, and they are quite simple. Choose well the project name and package name, run the gradle tasks, test the `aar` file before uploading to JCenter and make it more visible adding it to Awesome lists.  
 
 
 

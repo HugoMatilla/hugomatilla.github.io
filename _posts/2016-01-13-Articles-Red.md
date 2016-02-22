@@ -90,7 +90,7 @@ Antonio Leiva @ devexperto
 
 # Week 2016-1-25
 
-**"In the right environment event a tourtle can be fast"**  
+**"In the right environment event a turtle can be fast"**  
 Paul Bakaus @ ampproject.org   
 [What Is AMP?](https://www.ampproject.org/docs/get_started/about-amp.html)
 

@@ -6,20 +6,20 @@ permalink: /about/
 
 _Hi, I am Hugo Matilla Gómez, I studied and still study computers stuff._
 
-First thing you heard in the Software Engeenireng School is:   
-**_"You have chossen a path that will keep you studing all your life."_**
+First thing you heard in the Software Engineering School is:   
+**_"You have chosen a path that will keep you studying all your life."_**
 
 I love to study so I feel lucky of choosing Computer Science as my field. :D
 
 I **studied** in Madrid at [FI-UPM](https://www.fi.upm.es/), I did the Eramus Program in Berlin at [TU-Berlin](http://www.tu-berlin.de/) with a Diploma Project and an internship in the [T-Labs](https://www.net.t-labs.tu-berlin.de/talks/past_talks_2009.shtml)
 
-I **worked in Madrid** in Data Warehousing at [Alamo Consulting](http://alamoconsulting.com/) and in Bussiness Intelligence projects at [Innova-TSN](http://www.innova-tsn.es/)
+I **worked in Madrid** in Data Warehousing at [Alamo Consulting](http://alamoconsulting.com/) and in Business Intelligence projects at [Innova-TSN](http://www.innova-tsn.es/)
 
-I **sudied** at home a Postgraduate in Mobile Applications Development at [Fundacion UNED](http://www.fundacion.uned.es/web).
+I **studied** at home a Postgraduate in Mobile Applications Development at [Fundacion UNED](http://www.fundacion.uned.es/web).
 
 I **worked in Berlin** as Android Developer at [Smart Mobile Factory](http://smartmobilefactory.com/en/) and I am currently the main (and only one) Android Developer at [Scondoo](https://scondoo.de/)
 
-I **moved back** to Spain from Berlin after travelling 2,5 months through Japan, Thailand and [Indonesia](https://unsplash.com/photos/EFuCATqfblI).
+I **moved back** to Spain from Berlin after traveling 2,5 months through Japan, Thailand and [Indonesia](https://unsplash.com/photos/EFuCATqfblI).
 
 **Now** I work 2 days/week from home for [Scondoo](https://scondoo.de/), the rest of the time I study and try new stuff.
 

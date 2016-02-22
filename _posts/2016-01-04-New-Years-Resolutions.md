@@ -23,7 +23,7 @@ __T__imed (Objectives need plans, deadlines and milestones to give you focus: 1 
 * Release 1 project in Github _(1 year)_
 * Learn Kotlin
 	* Finish Koans _(2 Weeks)_ Deadline 22. Jan (done 13.Jan)
-	* Read Book "Kotlin for Android developers" _(1 Month)_ Deadline 1. Marz
+	* Read Book "Kotlin for Android developers" _(1 Month)_ Deadline 1. March
 	* Make Clean Architecture Kotlin App _(2 Months)_ Deadline 1. May
 	* Add business kotlin classes to the scondoo app _(...)_
 * Read and Summarize 3 Technical Books
