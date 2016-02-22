@@ -47,7 +47,7 @@ I **moved back** to Spain from Berlin after traveling 2,5 months through Japan, 
 
 ### I tried some stuff like:
 
-* Meteor: [MeeMo](http://meemo.meteor.com/) A MeeMory app
+* Meteor: [MeeMo](http://meemo.meteor.com/) A MeeMory app (Be patient, it takes some time to load)
 * Polymer in Phonegap: (sorry, no code) but I can tell you that it won't work directly in all Android versions. I answered [here](http://stackoverflow.com/a/26921138/749393) and [here](http://stackoverflow.com/a/26921176/749393) 
 * React and React Native: I really like it, but who knows how long is it going to last.
 * Jekyll and Polymer: The blog you are reading now. Under construction :)
