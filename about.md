@@ -88,6 +88,6 @@ I **moved back** to Spain from Berlin after traveling 2,5 months through Japan, 
 ### I practice:
 
 * HapKiDo
-* BoardSports like: Skateboarding, Snowboarding and Surf
+* Board sports like: Skateboarding, Snowboarding and Surf
 
  More in my [CV]({{site.baseurl}}/assets/HAMatilla_Resume_Senior_G.pdf).
