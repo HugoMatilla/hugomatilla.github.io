@@ -7,7 +7,31 @@ image : main-articles.jpg
 ---
 
 ## _A log of the the articles that I read._
-#Week 2016-2-22
+# Week 2016-2-22
+
+**"React has values, about the way the software should be structure"**
+Nick Schrock @ React Conf 2016
+[React.js Conf 2016 - Nick Schrock - Keynote](https://www.youtube.com/watch?v=MGuKhcnrqGA)
+
+**"Creer es crear"**
+Mario Alonso Puig @ Agora Talentia
+[Mario Alonso Puig , regalate estos 15 minutos de sabiduría](https://www.youtube.com/watch?v=AmAVVi00XqQ)
+
+**"In 2007, the two roommates living in San Francisco couldn't afford to pay rent."**
+Biz Carson @ Business Insider   
+[How three guys turned renting out an air mattress in their apartment into a $25 billion company](http://www.businessinsider.com/how-airbnb-was-founded-a-visual-history-2016-2)
+
+**"It’s extremely difficult to convert an app into a profitable business"**
+Enrique Dans @ Medium  
+[The app economy: it’s all about critical mass](https://medium.com/enrique-dans/the-app-economy-it-s-all-about-critical-mass-dfb415861583#.9a7ckfhni)
+
+**"Perder o vender los datos de nuestros usuarios debería ser una falta tan grave como romper el Juramento Hipocrático para los médicos"**   
+David Bonilla @ La Bonilista   
+[Enclave Seguro](http://us2.campaign-archive1.com/?u=374c664073e1a1fa3deca53b4&id=3a2c47ff18&e=2a1a11c4a7)
+
+**"VR is going to be the most social platform"**
+Mark Zuckerberg @ MWC Samsung Galaxy Unpacked 2016
+[Samsung Galaxy Unpacked 2016 Live Stream](https://www.youtube.com/watch?v=8R5HN6oWdC4)
 
 **"Idling: Espresso waits until the app is "idle" before performing the next action and checking the next assertion."**  
 Chiu-Ki Chan @ Square Island  
