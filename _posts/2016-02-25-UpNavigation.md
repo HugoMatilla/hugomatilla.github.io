@@ -6,7 +6,7 @@ categories: tutorial
 image : main-up-navigation.jpg
 ---
 
-[Providing Up Navigation](http://developer.android.com/intl/es/training/implementing-navigation/ancestral.html) is an android design concept that we should follow. and it is easy to use, so why don't give it a try.
+Up navigation help us use and organize our application hierarchy, Android offers built in features to implement this behavior easily. Here I present a simple use and an problem that I face while using it.
 
 ## Simple use
 It is easy to use, just  need this in your manifest:
