@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Simple use of up navigation"
-date:   2016-02-25 18:00:00
+date:   2016-02-25 14:00:00
 categories: tutorial
 image : main-up-navigation.jpg
 ---
