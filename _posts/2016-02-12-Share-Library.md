@@ -8,6 +8,8 @@ image : main-share.jpg
 
 ## _A brief explanation of how to create an aar library and share it easily._
 
+**NOTE:** I assume you already have some code that you want to share as a library. The intention of this article is to explain the steps to share the library not how to make it.
+
 ## 1. Create your library.
 There are different ways to organize code you want to share. I prefer when the project is a demo application, and as a 'module' the code of the library you are sharing. I am going to explain this case.
 
@@ -19,7 +21,7 @@ Now create a new module (Android Library) and change the name and the the packag
 
 ![Editing new module package name]({{ site.url }}/assets/PostShareLibrary/share-android-lib-module.jpg)
 
-This 2 simple steps will make the project cleaner, consistent and easier to use.
+These 2 simple steps will make the project cleaner, consistent and easier to use.
 
 ## 2. Create an aar file
 This part is easier that you could expect, though it was not easy to find the correct article who explained it. I found this one very helpful.
@@ -51,7 +53,7 @@ Now _sync_ the project and go to the root folder of your project, (not the libra
 
 	./gradlew clean build generateRelease
 
-Now you have your `far` file in `yourAppFolder/yourLibrary/build/release.zip`. 
+Now you have your `aar` file in `yourAppFolder/yourLibrary/build/release.zip`. 
 
 ## 3.Test the aar library
 
@@ -64,9 +66,23 @@ Go to the project view and select "Project" normally it is set to "Android". In 
 
 ![Add arr file to libs folder ]({{ site.url }}/assets/PostShareLibrary/share-android-lib-libs.jpg)
 
-Now add a reference in the `build.gradle` file and _sync_ it.
+Now add a reference in the dependencies and repositories in the `build.gradle` file and _sync_ it.
 
-	compile(name: 'mylibrary', ext: 'aar')
+{% highlight java %}
+repositories {
+  ...
+  flatDir {
+    dirs 'libs'
+  }
+}
+
+dependencies {
+	...
+    compile(name: 'mylibrary', ext: 'aar')
+}
+{% endhighlight %}	
+
+And add 
 
 At this moment if you run _MyLibraryAARTestApplication_ and the `aar` file was generated correctly it should work as well as in _MyLibraryDemoApplication_
 

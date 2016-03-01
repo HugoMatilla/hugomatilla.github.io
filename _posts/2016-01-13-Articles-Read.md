@@ -6,8 +6,31 @@ categories: reading
 image : main-articles.jpg
 ---
 
-## _A log of the the articles that I read._
+## _A log of the the articles that I have read._
+
+# Week 2016-2-29
+
+**"This type of misunderstanding happens between human drivers on the road every day"**
+Google @ Google's February self-driving report (from The Verge)
+[A Google self-driving car caused a crash for the first time](http://www.theverge.com/2016/2/29/11134344/google-self-driving-car-crash-report)
+
+**"Everyone has to has to care about performance: users leave feedback about bad performing applications 3 times more than anything else."**  
+Colt McAnlis @  Coffee with a Googler  
+[Coffee with a Googler: Chat with Colt McAnlis](https://www.youtube.com/watch?v=GgiusBuk-4Y)
+
+**"La forma de garantizarte un salario digno no será usar software con más o menos habilidad, sino construirlo."**  
+David Bonilla @ La Bonilista  
+[El día que los robots se comieron a los lobos](http://us2.campaign-archive2.com/?u=374c664073e1a1fa3deca53b4&id=348d32eaf0&e=2a1a11c4a7)
+
+**"Learn a new programming language this year"**  
+Donn Felker @ Fragmented Podcast  
+[028: Tips and tricks we picked from 2015](http://fragmentedpodcast.com/episodes/28/)  
+
 # Week 2016-2-22
+
+**"As things are immutable you don't have that many side effects"**
+Hadi Hariri @ Fragmented Podcast
+[020: Talking Kotlin with Hadi Hariri](http://fragmentedpodcast.com/episodes/20/)
 
 **"React has values, about the way the software should be structure"**
 Nick Schrock @ React Conf 2016
