@@ -9,9 +9,12 @@ image : main-articles.jpg
 ## _A log of the the articles that I have read._
 
 # Week 2016-2-29
+**"Do we want to put a limit on the technology that protects our data?"**
+Bruce Sewell @  Apple's opening statement to Congress over its FBI fight, via engadget  
+[http://www.engadget.com/2016/02/29/apple-fbi-congress-statement/](http://www.engadget.com/2016/02/29/apple-fbi-congress-statement/)
 
 **"This type of misunderstanding happens between human drivers on the road every day"**
-Google @ Google's February self-driving report (from The Verge)
+Google @ Google's February self-driving report, via The Verge
 [A Google self-driving car caused a crash for the first time](http://www.theverge.com/2016/2/29/11134344/google-self-driving-car-crash-report)
 
 **"Everyone has to has to care about performance: users leave feedback about bad performing applications 3 times more than anything else."**  
