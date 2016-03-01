@@ -32,7 +32,7 @@ This part is easier that you could expect, though it was not easy to find the co
 
 Add this at the top after the `apply` call in the `build.gradle` of your library module.
 
-{% highlight java %}
+{% highlight python %}
 ext {
     PUBLISH_GROUP_ID = 'com.hugomatilla' //Change this to your own domain
     PUBLISH_ARTIFACT_ID = 'mylibrary' //Change this to the name of your library
@@ -41,7 +41,7 @@ ext {
 {% endhighlight %}
 
 And  this at the end.
-{% highlight java %}
+{% highlight python %}
 apply from: 'https://raw.githubusercontent.com/blundell/release-android-library/master/android-release-aar.gradle'
 {% endhighlight %}
 
@@ -68,7 +68,7 @@ Go to the project view and select "Project" normally it is set to "Android". In 
 
 Now add a reference in the dependencies and repositories in the `build.gradle` file and _sync_ it.
 
-{% highlight java %}
+{% highlight python %}
 repositories {
   ...
   flatDir {
