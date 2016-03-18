@@ -17,7 +17,7 @@ It is easy to use, just  need this in your manifest:
     android:parentActivityName=".ui.activities.MainActivity" > //<---Only add this
     <meta-data // This if you need to target Android versions lower than 16
         android:name="android.support.PARENT_ACTIVITY"
-        android:value="com.antonioleiva.weatherapp.ui.activities.MainActivity" />
+        android:value=".ui.activities.MainActivity" />
 </activity>
 ```
 
@@ -45,7 +45,7 @@ public boolean onOptionsItemSelected(MenuItem item) {
 You will get the same functionality for free.
 
 ## The problem (parent activity recreation)
-But one important think that I missed the first time I tried it, any time that you go to the parent activity using the up navigation (back arrow), the parent activity will be recreated, i.e. if it is a list you will go to the top element, if the parent activity has complex UI and images all if it will have to be recreated, worse, if the parent activity got some data from the Internet that was not cached, the whole download process will be done again. It is easy to fix this.
+But one important think that I missed the first time I tried it, any time that you go to the parent activity using the up navigation (back arrow), the parent activity will be recreated, i.e. if it is a list you will go to the top element, if the parent activity has complex UI and images all of it will have to be recreated, worse, if the parent activity got some data from the Internet that was not cached, the whole download process will be done again. It is easy to fix this.
 
 ## Why is this happening?
 It is explained here [Providing Up Navigation](http://developer.android.com/intl/es/training/implementing-navigation/ancestral.html):
