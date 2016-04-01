@@ -8,6 +8,19 @@ image : main-articles.jpg
 
 ## _A log of the the articles that I have read._
 
+**When gradle in in its initialization phase in order to determine what is executed in which order it use DAG (direct acyclic graph)**
+Annyce Davis @ Fragmented Podcast
+[033: Talking Gradle with GDE Annyce Davis](http://fragmentedpodcast.com/episodes/33/)
+
+# Week 2016-3-21
+**"Si alguien con un salario de 31.000€ está entre el 20% de los profesionales mejor pagados en España es que algo marcha mal, muy mal."**
+David Bonilla @ La Bonilista
+[Big Macs y barro](http://us2.campaign-archive2.com/?u=374c664073e1a1fa3deca53b4&id=445a15feab&e=2a1a11c4a7)
+
+**"Lambda is not exactly the same as an object"**
+Antonio Leiva @ antonioleiva.com
+[Kotlin recipes for Android (I): OnGlobalLayoutListener](http://antonioleiva.com/kotlin-ongloballayoutlistener/)
+
 # Week 2016-2-29
 **"Do we want to put a limit on the technology that protects our data?"**
 Bruce Sewell @  Apple's opening statement to Congress over its FBI fight, via engadget  
