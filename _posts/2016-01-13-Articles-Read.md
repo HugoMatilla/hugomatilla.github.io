@@ -8,31 +8,35 @@ image : main-articles.jpg
 
 ## _A log of the the articles that I have read._
 
-**When gradle in in its initialization phase in order to determine what is executed in which order it use DAG (direct acyclic graph)**
-Annyce Davis @ Fragmented Podcast
+**"A static factory method we use in android is the Toast class."**
+Kaushik Gopal @ Fragmented Podcast  
+[014: Effective Java for Android developers : Item 1](http://fragmentedpodcast.com/episodes/14/)  
+
+**"When gradle in in its initialization phase in order to determine what is executed in which order it use DAG (direct acyclic graph)"**  
+Annyce Davis @ Fragmented Podcast  
 [033: Talking Gradle with GDE Annyce Davis](http://fragmentedpodcast.com/episodes/33/)
 
 # Week 2016-3-21
-**"Si alguien con un salario de 31.000€ está entre el 20% de los profesionales mejor pagados en España es que algo marcha mal, muy mal."**
-David Bonilla @ La Bonilista
+**"Si alguien con un salario de 31.000€ está entre el 20% de los profesionales mejor pagados en España es que algo marcha mal, muy mal."**  
+David Bonilla @ La Bonilista  
 [Big Macs y barro](http://us2.campaign-archive2.com/?u=374c664073e1a1fa3deca53b4&id=445a15feab&e=2a1a11c4a7)
 
-**"Lambda is not exactly the same as an object"**
-Antonio Leiva @ antonioleiva.com
+**"Lambda is not exactly the same as an object"**  
+Antonio Leiva @ antonioleiva.com  
 [Kotlin recipes for Android (I): OnGlobalLayoutListener](http://antonioleiva.com/kotlin-ongloballayoutlistener/)
 
 # Week 2016-2-29
-**"Do we want to put a limit on the technology that protects our data?"**
-Bruce Sewell @  Apple's opening statement to Congress over its FBI fight, via engadget  
+**"Do we want to put a limit on the technology that protects our data?"**  
+Bruce Sewell @  Apple's opening statement to Congress over its FBI fight, via engadget    
 [http://www.engadget.com/2016/02/29/apple-fbi-congress-statement/](http://www.engadget.com/2016/02/29/apple-fbi-congress-statement/)
 
-**"This type of misunderstanding happens between human drivers on the road every day"**
-Google @ Google's February self-driving report, via The Verge
-[A Google self-driving car caused a crash for the first time](http://www.theverge.com/2016/2/29/11134344/google-self-driving-car-crash-report)
-
+**"This type of misunderstanding happens between human drivers on the road every day"**  
+Google @ Google's February self-driving report, via The Verge  
+[A Google self-driving car caused a crash for the first time](http://www.theverge.com/2016/2/29/11134344/google-self-driving-car-crash-report) 
+ 
 **"Everyone has to has to care about performance: users leave feedback about bad performing applications 3 times more than anything else."**  
 Colt McAnlis @  Coffee with a Googler  
-[Coffee with a Googler: Chat with Colt McAnlis](https://www.youtube.com/watch?v=GgiusBuk-4Y)
+[Coffee with a Googler: Chat with Colt McAnlis](https://www.youtube.com/watch?v=GgiusBuk-4Y)  
 
 **"La forma de garantizarte un salario digno no será usar software con más o menos habilidad, sino construirlo."**  
 David Bonilla @ La Bonilista  
