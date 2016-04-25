@@ -12,49 +12,48 @@ image : main-testing.jpg
 When doing Unit testing we don't depend on Android so here is the sample of a basic rest service test.
 
 ```java
+package com.hugomatilla.starwars.data
 
-	package com.hugomatilla.starwars.data
-
-	import com.google.gson.Gson
-	import com.google.gson.JsonSyntaxException
-	import org.junit.Assert.*
-	import org.junit.Test
-	import java.io.File
-	import java.net.MalformedURLException
+import com.google.gson.Gson
+import com.google.gson.JsonSyntaxException
+import org.junit.Assert.*
+import org.junit.Test
+import java.io.File
+import java.net.MalformedURLException
 
 
-	/**
-	 * Created by hugomatilla on 02/03/16.
-	 */
-	class CloudUnitTest {
-	    // ----- Article List -----
-	    @Test
-	    fun requestTopArticles() {
-	        val articles = RestService().fetchArticlesList()
-	        assertEquals(articles.size, 245)
-	    }
+/**
+ * Created by hugomatilla on 02/03/16.
+ */
+class CloudUnitTest {
+    // ----- Article List -----
+    @Test
+    fun requestTopArticles() {
+        val articles = RestService().fetchArticlesList()
+        assertEquals(articles.size, 245)
+    }
 
-	    // ------ Exceptions -----
-	    @Test
-	    fun catchMalformedUrl() {
-	        try {
-	            RestService().fetchArticlesList("htp://google.com)
-	            fail("MalformedURLException not catch");
-	        } catch (error: MalformedURLException) {
-	            assert(true)
-	        }
-	    }
+    // ------ Exceptions -----
+    @Test
+    fun catchMalformedUrl() {
+        try {
+            RestService().fetchArticlesList("htp://google.com)
+            fail("MalformedURLException not catch");
+        } catch (error: MalformedURLException) {
+            assert(true)
+        }
+    }
 
-	    // ----- Article Sections -----
-	    @Test
-	    fun requestArticleSections() {
-	        val sections = RestService().fetchArticleSections(1)
-	        if (sections != null)
-	            assertEquals(sections.elementAt(0).title, "Section Title")
-	        else
-	            fail("Sections is null")
-	    }
-	}
+    // ----- Article Sections -----
+    @Test
+    fun requestArticleSections() {
+        val sections = RestService().fetchArticleSections(1)
+        if (sections != null)
+            assertEquals(sections.elementAt(0).title, "Section Title")
+        else
+            fail("Sections is null")
+    }
+}
 ```
 
 #Android Tests
@@ -64,12 +63,11 @@ We do not need any UI testing, just the context, so we don't need to import espr
 So our dependencies in the build.gradle file will need the runner and the rules.
 
 ```java
-
-	//test
-    testCompile 'junit:junit:4.12'
-    //instrumentation tests
-    androidTestCompile "com.android.support.test:runner:0.4.1"
-    androidTestCompile "com.android.support.test:rules:0.4.1"
+//test
+testCompile 'junit:junit:4.12'
+//instrumentation tests
+androidTestCompile "com.android.support.test:runner:0.4.1"
+androidTestCompile "com.android.support.test:rules:0.4.1"
 ```
 
 Other thing that we might need is an application where the android test will "take" the context. This is easy if we are making the tests for the presentation layer ([Clean Architecture](https://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html)). In this case I am making a test for the data layer, that is a different module and does not have any idea of what is in the presentation layer. So I can not import any activity or my "MyApplication.class" to the test.
@@ -78,34 +76,32 @@ What you can do is use the `Application.class`. The runner will create it before
 A test of the DataBase will look something like this.
 
 ```java
+class DataTests : ApplicationTestCase<Application>(Application::class.java) {
+    private var DB: Db? = null
 
-	class DataTests : ApplicationTestCase<Application>(Application::class.java) {
-	    private var DB: Db? = null
+    @Throws(Exception::class)
+    override fun setUp() {
+        super.setUp()
+        createApplication()
+        DB = Db(DbHelper(application.applicationContext, DbHelper.DB_NAME_MOCK, 1), DbMapper())
+    }
 
-	    @Throws(Exception::class)
-	    override fun setUp() {
-	        super.setUp()
-	        createApplication()
-	        DB = Db(DbHelper(application.applicationContext, DbHelper.DB_NAME_MOCK, 1), DbMapper())
-	    }
-
-	    fun test_saveArticle() {
-	        val article = ArticleDomain(1, "Title", "Abstract", "Thumbnail", 1, 2, "Url", "Type", emptyList())
-	        DB!!.saveArticle(article)
-	        val result = DB!!.getArticleDetailById(1)
-	        if (result != null)
-	            assertEquals(result, article)
-	        else
-	            fail("Return value from the data base is null")
-	    }
+    fun test_saveArticle() {
+        val article = ArticleDomain(1, "Title", "Abstract", "Thumbnail", 1, 2, "Url", "Type", emptyList())
+        DB!!.saveArticle(article)
+        val result = DB!!.getArticleDetailById(1)
+        if (result != null)
+            assertEquals(result, article)
+        else
+            fail("Return value from the data base is null")
+    }
 
 
-	    override fun tearDown() {
-	        DB!!.clearDatabase()
-	        super.tearDown()
-	    }
-	}
-
+    override fun tearDown() {
+        DB!!.clearDatabase()
+        super.tearDown()
+    }
+}
 ```
 Remember that tests must start with the prefix `test_` as in `test_saveArticle()`
 
