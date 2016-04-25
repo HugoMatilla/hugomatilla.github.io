@@ -38,7 +38,7 @@ class CloudUnitTest {
     @Test
     fun catchMalformedUrl() {
         try {
-            RestService().fetchArticlesList("htp://google.com)
+            RestService().fetchArticlesList("htp://google.com")
             fail("MalformedURLException not catch");
         } catch (error: MalformedURLException) {
             assert(true)
