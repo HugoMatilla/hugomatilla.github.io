@@ -8,6 +8,54 @@ image : main-articles.jpg
 
 ## _A log of the the articles that I have read._
 
+**"XP: A progression of ideas from broad and abstract values through principles, to concrete practices"**
+Martin Fowler @ martinfowler.com   
+[ExtremeProgramming](http://martinfowler.com/bliki/ExtremeProgramming.html)
+
+**"Now any class can use the code that we want to reuse, they just need to reference the dependency that has the code we want to share."**  
+Rui Figueiredo @ Blinking Caret  
+[Why composition is superior to inheritance as a way of sharing code](http://www.blinkingcaret.com/2016/04/13/composition-superior-inheritance/)  
+
+# Week 2016-4-10
+
+**"Los requisitos del cliente van en la capa de dominio"**
+Jorge Juan Barroso @ GDG DevFest Córdoba 2015.
+[GDG DevFest Córdoba 2015. Track 1.Persistiendo que es gerundio](https://www.youtube.com/watch?v=JR7yEd2T9LU)
+
+**"There are 3 common mistakes custom views: Useless calls to `onDraw()`, useless pixels and wasted CPU cycles."**  
+Ian Ni-Lewis @  Google Developers Youtube Channel 
+[Custom Views and Performance (100 Days of Google Dev)](https://www.youtube.com/watch?v=zK2i7ivzK7M)
+
+**"Rather than allocating an object each time once is needed it makes more sense allocate a group of free objects at one time"**  
+Colt McAnlis @ Google Developers Youtube Channel  
+[Object Pools (Android Performance Patterns Season 2 ep5)](https://www.youtube.com/watch?v=bSOREVMEFnM)  
+
+**"Dalvik and ART (for the moment) don't use a compacting garbage collector, a model in which the GC will run through the heap and move living objects into adjacent memory locations"**  
+Michael S. @ Yelp Engineering Blog    
+[http://engineeringblog.yelp.com/2015/07/glide-how-yelps-android-app-loads-images.html](http://engineeringblog.yelp.com/2015/07/glide-how-yelps-android-app-loads-images.html)
+
+# Week 2016-4-4
+**"Whenever you’re really confused, break things down."**  
+ Andy Bartholomew @ 
+
+**"The main idea behind Model View Presenter is to decouple the view implementation from the domain layer adding a concept named Presenter where the presentation logic is implemented."**  
+Pedro Pedro V. Gómez Sánchez @ Karumi Blog  
+[Inside Rosie - The Presentation Layer](http://blog.karumi.com/inside-rosie-the-presentation-layer/)
+
+**"Dependency injection is passing dependencies (inject them) via constructor"**
+Antonio Leiva @ antonioleiva.com  
+[Dependency injection on Android: Dagger (Part 1)](http://antonioleiva.com/dependency-injection-android-dagger-part-1/)
+
+**"La antifragilidad, la propiedad de un sistema que más allá de la resiliencia y la robustez, consiga MEJORAR a partir del fallo."**  
+David Bonilla @ La Bonilista  
+[El pastor de Cisnes Negros](http://us2.campaign-archive2.com/?u=374c664073e1a1fa3deca53b4&id=23525e4469&e=2a1a11c4a7)
+
+
+# Week 2016-3-28
+**"Alert Dialog is where we easily can find the Builder pattern in Android"**
+Donn Felker @ Fragmented Podcast
+[016: Effective Java for Android developers : Item 2](http://fragmentedpodcast.com/episodes/16/)
+
 **"A static factory method we use in android is the Toast class."**
 Kaushik Gopal @ Fragmented Podcast  
 [014: Effective Java for Android developers : Item 1](http://fragmentedpodcast.com/episodes/14/)  
