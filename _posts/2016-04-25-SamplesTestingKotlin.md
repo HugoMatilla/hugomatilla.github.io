@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Snippets for testing in Kotlin"
-date:   2016-4-25 16:28:00
-categories: test
+title:  "Testing in Kotlin snippets"
+date:   2016-04-24 14:00:00
+categories: testing
 image : main-testing.jpg
 ---
 
@@ -11,7 +11,7 @@ image : main-testing.jpg
 #JUnit Test
 When doing Unit testing we don't depend on Android so here is the sample of a basic rest service test.
 
-```kotlin
+```java
 
 	package com.hugomatilla.starwars.data
 
@@ -77,7 +77,7 @@ What you can do is use the `Application.class`. The runner will create it before
 
 A test of the DataBase will look something like this.
 
-```kotlin
+```java
 
 	class DataTests : ApplicationTestCase<Application>(Application::class.java) {
 	    private var DB: Db? = null
