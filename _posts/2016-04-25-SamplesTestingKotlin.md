@@ -6,10 +6,10 @@ categories: test
 image : main-testing.jpg
 ---
 
-## Some simple snippets to do logic testing in kotlin
+## _Some simple snippets to do logic testing in kotlin_
 
 #JUnit Test
-When doing Unit testing we don't depend on Android so here is the sample of a basic test.
+When doing Unit testing we don't depend on Android so here is the sample of a basic rest service test.
 
 ```kotlin
 
