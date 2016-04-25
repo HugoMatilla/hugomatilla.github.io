@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Snippets for testing in Kotlin"
-date:   2016-1-4 22:28:00
-categories: test,kotlin, android
+date:   2016-4-25 16:28:00
+categories: test
 image : main-testing.jpg
 ---
 
