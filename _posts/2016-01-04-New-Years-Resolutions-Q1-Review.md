@@ -3,7 +3,7 @@ layout: post
 title:  "New Year's Resolutions: Q1 review"
 date:   2016-4-3 12:28:00
 categories: motivation
-image : main-resolutions.jpg
+image : main-q1.jpg
 ---
 
 ## Review of Q1  plans

@@ -9,6 +9,7 @@ image : main-testing.jpg
 ## _Some simple snippets to do logic testing in kotlin_
 
 #JUnit Test
+
 When doing Unit testing we don't depend on Android so here is the sample of a basic rest service test.
 
 ```java
@@ -57,6 +58,7 @@ class CloudUnitTest {
 ```
 
 #Android Tests
+
 If we need a context for example to access the data base we will need to use android tests instead of "normal" tests.
 
 We do not need any UI testing, just the context, so we don't need to import espresso libraries for this test. 
@@ -102,7 +104,9 @@ class DataTests : ApplicationTestCase<Application>(Application::class.java) {
         super.tearDown()
     }
 }
+
 ```
+
 Remember that tests must start with the prefix `test_` as in `test_saveArticle()`
 
 To create my database instance I need to pass to the constructor a Database Helper with a context, a name of the database (I use a mock name for the tests) and a version number, and a data mapper.
