@@ -8,7 +8,7 @@ image : main-testing.jpg
 
 ## _Some simple snippets to do logic testing in kotlin_
 
-#JUnit Test
+# JUnit Test
 
 When doing Unit testing we don't depend on Android so here is the sample of a basic rest service test.
 
@@ -57,7 +57,7 @@ class CloudUnitTest {
 }
 ```
 
-#Android Tests
+# Android Tests
 
 If we need a context for example to access the data base we will need to use android tests instead of "normal" tests.
 
@@ -112,6 +112,10 @@ Remember that tests must start with the prefix `test_` as in `test_saveArticle()
 To create my database instance I need to pass to the constructor a Database Helper with a context, a name of the database (I use a mock name for the tests) and a version number, and a data mapper.
 
 And don't forget to clear the database in the tear down of the test, so every test will start with an fresh and empty database.
+
+# Conclusions
+Testing in Kotlin should be as easy if not easier as testing in Java. Having a snippet as a starting point is always helpful for the new comers.
+ 
 
 You can find more in this [github project](https://github.com/HugoMatilla/StarWars-TheKotlinAwakens)
 
