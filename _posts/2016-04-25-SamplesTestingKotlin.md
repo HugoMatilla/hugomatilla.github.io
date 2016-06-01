@@ -73,7 +73,9 @@ androidTestCompile "com.android.support.test:rules:0.4.1"
 ```
 
 Other thing that we might need is an application where the android test will "take" the context. This is easy if we are making the tests for the presentation layer ([Clean Architecture](https://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html)). In this case I am making a test for the data layer, that is a different module and does not have any idea of what is in the presentation layer. So I can not import any activity or my "MyApplication.class" to the test.
-What you can do is use the `Application.class`. The runner will create it before running the test, and use its context.
+What you can do is use the `Application.class`. The runner will create it before running the test, and use its context. 
+And notice that you have to call `createApplication()` before using application.
+Thanks to Kotlin instead of calling the accessors of `application` i.e `getApplication()` we can directly access to it with its property name `application`.
 
 A test of the DataBase will look something like this.
 
@@ -115,7 +117,7 @@ And don't forget to clear the database in the tear down of the test, so every te
 
 # Conclusions
 Testing in Kotlin should be as easy if not easier as testing in Java. Having a snippet as a starting point is always helpful for the new comers.
- 
+
 
 You can find more in this [github project](https://github.com/HugoMatilla/StarWars-TheKotlinAwakens)
 

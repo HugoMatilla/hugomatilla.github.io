@@ -7,6 +7,91 @@ image : main-articles.jpg
 ---
 
 ## _A log of the the articles that I have read._
+**" There are three main ways this can be done: programmatically, in XML, or automatically via an annotation."**   
+Ian Lake @ Medium   
+[Intercepting everything with CoordinatorLayout Behaviors](https://medium.com/google-developers/intercepting-everything-with-coordinatorlayout-behaviors-8c6adc140c26#.99vhpyo91)
+
+**"Actually, the LinearLayout already manages a notion of spacing between elements."**   
+Cyril Mottier @ cyrilmottier.com
+[Grid Spacing on Android](http://cyrilmottier.com/2014/11/17/grid-spacing-on-android/)
+
+# Week 2016-5-23
+
+**"First Find a View, then perform an action on it and finally verify the resulting state."**   
+Wojtek Kaliciński @ Android Developers Channel   
+[Android Testing Support - Android Testing Patterns #1](https://www.youtube.com/watch?v=W8LJjfkTKik)
+
+
+**"UnitTesta are the more basic tests, but basic is not the same as unimportant"**   
+Wojtek Kaliciński @ Android Developers Channel   
+[Android Testing Support - Android Testing Patterns #1](https://www.youtube.com/watch?v=W8LJjfkTKik)
+
+**"Do Less / Be Lazy"**  
+Addy Osmani @ Google I/O 2016   
+[Progressive Web Apps across all frameworks](https://www.youtube.com/watch?v=srdKq0DckXQ)   
+
+**"They were able to prevent Oracle from setting a dangerous precedent"**   
+Quincy Larson @ Medium   
+[Who won Google VS Oracle? Developers won](https://medium.freecodecamp.com/why-todays-victory-over-oracle-matters-so-much-to-developers-4e24b4a368b5#.s5dlx0nwc)
+
+
+
+# Week 2016-5-16
+
+**"With Vector Asset Studio you only have to think about one asset file"**  
+Kaushik Gopal @ Fragmented Podcast
+[All about Vector support on Android](http://fragmentedpodcast.com/episodes/35/)
+
+**"You need social interaction, Cabin Fever is a real thing."**  
+Donn Felker @ Fragmented Podcast
+[Working Remotely](http://fragmentedpodcast.com/episodes/036/)
+
+
+**"Can the image be a Vector Drawable? VP, No? -> Do we support WebP? WebP, No? -> Does it need transparency? PNG, No? -> Is it simple? PNG, No? -> Is it complex? JPG"**   
+Colt McAnlis @ Google IO 2016  
+[Image compression for Android developers](https://www.youtube.com/watch?v=r_LpCi6DQME)
+
+**"Exhausting multiple implementations and solutions to a problem is essential for ironing out the best approach."**  
+Jake Wharton @ jakewharton.com  
+[Coercing Picasso To Play With Palette](http://jakewharton.com/coercing-picasso-to-play-with-palette/)  
+
+**"You want your classes to be named after the behaviour they exhibit, following the Single Responsibility Principle you should know what this responsibility/behaviour is."**   
+Paul Blundell @ novoda's blog   
+[This one simple change for better class naming will blow your mind](https://www.novoda.com/blog/better-class-naming/)
+
+
+**"Adding a hash at the end of the URL is one way to represent that the dialog box is visible"**  
+Jason Follas @ falafel's blog
+[Fixing the Back Button: A Simple SPA Behavior using Location Hash](http://blog.falafel.com/fixing-back-button-simple-spa-behavior-using-location-hash/)
+
+# Week 2016-5-9
+**"In the Activity lifecycle, there is this beautiful step onSaveInstanceState() that will be called before onDestroy().And, when your Activity is created, there’s a matching step onRestoreInstanceState()"**  
+Joanna Smith @ Medium   
+[Activity Revival and the case of the Rotating Device](https://medium.com/google-developers/activity-revival-and-the-case-of-the-rotating-device-167e34f9a30d#.9vsrup7c7)
+
+**"Functions are contravariant in the input type and covariant in the output type."**   
+Alvaro Polo @ Type Inference   
+[Covariance and Contravariance](http://typeinference.com/typing/2015/10/29/covariance_and_contravaciance.html)
+
+**"The layout scrollFlags attribute is the magic that will make it go"**
+Joanna Smith @ Android Developers Channel
+[AppBarLayout and scrolling gestures (Android Development Patterns Ep 6)](https://www.youtube.com/watch?v=THadGrPeSJM)
+
+**"The trick is to use the `tools:text="@string"` to see your views pre filled with data on the preview window. "**
+Alexandru Simonescu @ alexsimo blog
+[Mastering tools namespace on Android](http://blog.alexsimo.com/mastering-tools-namespace-android/)
+
+
+# Week 2016-5-2
+
+**"Tu código no debería ser menos testable porque utilices un singleton. Es menos testable porque invocaste a getInstance donde no tenías que invocarlo."**  
+Sergio Arroyo @ Fatiguitas de un Informático  
+[Los singletons no son malos, es la sociedad que los corrompe](http://serch.emaginalabs.com/post/120723856798/los-singletons-no-son-malos-es-la-sociedad-que)
+
+# Week 2016-4-18
+**"I prefer to call it Isolated test instead of Unit tests"**
+JB Rainsberger @ youtube
+[J B Rainsberger Integrated Tests Are A Scam HD](https://www.youtube.com/watch?v=VDfX44fZoMc)
 
 **"XP: A progression of ideas from broad and abstract values through principles, to concrete practices"**
 Martin Fowler @ martinfowler.com   
@@ -16,7 +101,7 @@ Martin Fowler @ martinfowler.com
 Rui Figueiredo @ Blinking Caret  
 [Why composition is superior to inheritance as a way of sharing code](http://www.blinkingcaret.com/2016/04/13/composition-superior-inheritance/)  
 
-# Week 2016-4-10
+# Week 2016-4-11
 
 **"Los requisitos del cliente van en la capa de dominio"**
 Jorge Juan Barroso @ GDG DevFest Córdoba 2015.

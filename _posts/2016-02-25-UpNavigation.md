@@ -12,6 +12,7 @@ Up navigation help us use and organize our application hierarchy, Android offers
 It is easy to use, just  need this in your manifest:
 
 ```java
+
 <activity
     android:name=".ui.activities.DetailActivity"
     android:parentActivityName=".ui.activities.MainActivity" > //<---Only add this
