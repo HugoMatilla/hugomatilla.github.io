@@ -7,6 +7,14 @@ image : main-articles.jpg
 ---
 
 ## _A log of the the articles that I have read._
+**"Type Aliases When you want to pass a function (say, a foo and bar to buzz), you end up repeating this function signature many times. That is why people want some abbreviation mechanism, to give a name to this complex type."**     
+Andrey Breslav @ Kotlin Night    
+[Where We Stand & What's Next for Kotlin](https://realm.io/news/andrey-breslav-whats-next-for-kotlin-roadmap/)
+
+**"If you have a big project and want to arrange your folders, quickly see which layout, drawables, values, etc. belongs to which screen try to use resource folder — per screen android project structure."**   
+Dmytro Danylyk @ Medium   
+[Android Project Structure — alternative way](https://medium.com/google-developer-experts/android-project-structure-alternative-way-29ce766682f0#.7s7x1yacw)
+
 **" There are three main ways this can be done: programmatically, in XML, or automatically via an annotation."**   
 Ian Lake @ Medium   
 [Intercepting everything with CoordinatorLayout Behaviors](https://medium.com/google-developers/intercepting-everything-with-coordinatorlayout-behaviors-8c6adc140c26#.99vhpyo91)
