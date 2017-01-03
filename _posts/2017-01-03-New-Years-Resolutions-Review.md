@@ -6,14 +6,14 @@ categories: motivation
 image : main-resolutions.jpg
 ---
 
-## _My plans and dreams for 2017
+## Review of 2016 plans
 
-## SMART objectives 2016
+<!-- ## SMART objectives 2016
 **Specific** Which is the final state of the objective? When will it be marked as done?
 **Measurable** How can be the progress of the objective be measure? Tasks done? Time invested?
 **Achievable** It should be a realistic objective, not too optimistic, and not too challenging?
 **Relevant** It is relevant for the Goals you want to achieve. If is not, it might not be a good objective.
-**Timed** Objectives need plans, deadlines and milestones to give you focus.
+**Timed** Objectives need plans, deadlines and milestones to give you focus. -->
 
 ## 1. Become better Android Developer
 * Release 1 project in Github _(1 year)_ :white_check_mark:✌︎
