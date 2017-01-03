@@ -44,7 +44,7 @@ image : main-resolutions.jpg
 ## 4. Learn Node and JavaScript
 * Do the Js course. Udemy _(3 Months)_ Deadline 1. March ✔︎ 
 * Do the Node course. Udemy _(3 Months)_ Deadline 1. July ✔︎ 
-︎* Also done that was not planed: A complete web course and a react course ✔︎  ✔︎ 
+* Also done that was not planed: A complete web course and a react course ✔︎  ✔︎ 
 
 ## 5. Make my own Website
 * Polymer Theme  _(6 Months)_ Deadline 1. July Not finished as I wanted to be. ✘
