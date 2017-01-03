@@ -77,6 +77,7 @@ I **moved back** to Spain from Berlin after traveling 2,5 months through Japan, 
 
 * CoderDojo: I am a mentor in the [CoderDojo Majadahonda](https://twitter.com/coderdojomj) teaching young [programmers](https://twitter.com/coderdojomj/status/668027302350032897) Scratch and BitBloq.
 * Hispanic Startups Berlin: I co-organized the [Hispanic Startups Berlin Event 2015](https://www.youtube.com/watch?v=iTkrAfz3u4w) and our [meetups](http://www.meetup.com/Hispanic-Startup-Berlin/).
+* Centre d’Estudis Montseny: I helped some enthusiastic students to think a bit further about their applications, making a [disrupt like event](http://somcem.cemontseny.cat/?p=6727). 
 
 ### I speak:
 

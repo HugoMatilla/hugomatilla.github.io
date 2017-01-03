@@ -7,6 +7,39 @@ image : main-articles.jpg
 ---
 
 ## _A log of the the articles that I have read._
+# Week 2016-11-7
+**"The idea of keeping the same job for life becomes less realistic as technology advances."**   
+Lihsuan Lung @ 8thlight blog   
+[Make Yourself Dispensable](https://8thlight.com/blog/lihsuan-lung/2016/10/12/make-yourself-dispensable.html)
+
+# Week 2016-10-3
+**"I need to display data on a page, not perform Sub Zero’s original MK fatality."**   
+Jose Aguinaga @ hackernoon.com   
+[How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.jm7k794xj)   
+
+# Week 2016-9-21
+**"Android Studio 2.2 is the update you do not want to miss."**   
+ Jamal Eason @ Android Developers Blog   
+[Android Studio 2.2](http://android-developers.blogspot.com.es/2016/09/android-studio-2-2.html)   
+
+**"Kotlin Android Extensions is basically a view binder that will let you use your XML views in your code by just using their id"**    
+Antonio Leiva @ antonioleiva.com  
+[Kotlin for Android (IV): Custom Views and Android Extensions](http://antonioleiva.com/kotlin-android-custom-views/)
+
+**"Charge people what you think it’s worth, do what you can with what you have, and focus on doing a really damn good job."**   
+Claire Lew @ Medium    
+[How we generated $712,076.64 in revenue with two people in a little over two years](https://m.signalvnoise.com/how-we-generated-712-076-64-in-revenue-with-two-people-in-a-little-over-two-years-8c4af36ed1f1#.nowzyat2i)
+
+# Week 2016-7-25
+**"We need to choose a language, or two, or three. A small set of simple frameworks. Build up our tools. Solidify our processes. And become a goddam profession."**   
+Robert C. Martin (Uncle Bob) @ The Clean Code Blog    
+[The Churn](http://blog.cleancoder.com/uncle-bob/2016/07/27/TheChurn.html)
+
+**"If technology would be better we will be not talking about patterns"**  
+Rob Pike @ OSCON
+[OSCON 2010: Rob Pike, "Public Static Void"](https://www.youtube.com/watch?v=5kj5ApnhPAE)
+
+# Week 2016-6-01
 **"Type Aliases When you want to pass a function (say, a foo and bar to buzz), you end up repeating this function signature many times. That is why people want some abbreviation mechanism, to give a name to this complex type."**     
 Andrey Breslav @ Kotlin Night    
 [Where We Stand & What's Next for Kotlin](https://realm.io/news/andrey-breslav-whats-next-for-kotlin-roadmap/)
