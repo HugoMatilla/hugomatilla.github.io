@@ -26,14 +26,14 @@ I **moved back** to Spain from Berlin after traveling 2,5 months through Japan, 
 ### I worked in apps like:
 
 * Scondoo
-	* [scondoo](https://play.google.com/store/apps/details?id=de.scondoo.android&referrer=adjust_reftag%3DcKg2d55QLVyGV%26utm_source%3DWebsite%2BHome%2BContainer%2BButton%2BAndroid)
+	* [scondoo](https://play.google.com/store/apps/details?id=de.scondoo.android)
 
 * HotUKDeals
 	* [HotUKDeals](https://play.google.com/store/apps/details?id=com.tippingcanoe.hukd&hl=en)
 
 * Smart Mobile Factory
 	* [rebuy](https://play.google.com/store/apps/details?id=de.rebuy.android) (Android and Windows apps)
-	* [WHATWASHERE_Berlin](https://play.google.com/store/apps/details?id=com.smf.wwh&feature=search_result#?t=W251bGwsMSwyLDEsImNvbS5zbWYud3doIl0.)
+	* [WHATWASHERE_Berlin](https://play.google.com/store/apps/details?id=com.smf.wwh)
 	* [PeblTree](http://pebltree.com/#)
 	* [LernCoachies in the Box](https://play.google.com/store/apps/details?id=com.smf.LernCoachies&hl=en)
 	* [Gravis](http://www.gravis.de/)
