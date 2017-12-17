@@ -39,7 +39,7 @@ image : main-resolutions.jpg
 * If after 6 Months Shapes does not work, start something new _(6 Months)_ Deadline 31. Dec I tried one more that was never released, team mate left, but I started a new one that is in progress now. This time alone :) ✔︎ 
 
 ## 3. Learn iOS
-* Do the Udemy course _(6 Months)_ Deadline 31. Dec ✘ Changed iOS for  web, javascript, node and react courses.
+* Do the Udemy course _(6 Months)_ Deadline 31. Dec  Changed iOS for  web, javascript, node and react courses. ✘
 
 ## 4. Learn Node and JavaScript
 * Do the Js course. Udemy _(3 Months)_ Deadline 1. March ✔︎ 

@@ -21,7 +21,7 @@ I **worked in Berlin** as Android Developer at [Smart Mobile Factory](http://sma
 
 I **moved back** to Spain from Berlin after traveling 2,5 months through Japan, Thailand and [Indonesia](https://unsplash.com/photos/EFuCATqfblI).
 
-**Now** I work part time from **Remote** for [Scondoo](https://scondoo.de/). In my spare time I keep studying and trying new stuff.
+**Now** I work **remotely** for [Scondoo](https://scondoo.de/), part time. In my spare time I keep studying, trying new stuff and doing some freelance jobs.
 
 ### I worked in apps like:
 
